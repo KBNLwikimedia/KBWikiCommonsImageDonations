@@ -1,0 +1,50 @@
+Webiste, 1280 objecten 
+- http://www.geheugenvannederland.nl/?/nl/zoekresultaten/pagina/1/Centsprenten+van+de+Koninklijke+Bibliotheek/%28isPartOf%20any%20%27KONB14%27%29
+
+
+OAI
+- http://services.kb.nl/mdo/oai?verb=ListRecords&set=GVNRC&metadataPrefix=dcx&from=2012-08-15T11:11:22.171Z&until=2012-08-15T11:11:41.234Z
+
+
+Via SRU doen!
+
+Records 1-1000
+http://jsru.kb.nl/sru?version=1.2&operation=searchRetrieve&x-collection=GVN&stylesheet=&recordSchema=dcx&startRecord=1&maximumRecords=1000&query=isPartOf%3DKONB14
+
+Records 1001-1280
+http://jsru.kb.nl/sru?version=1.2&operation=searchRetrieve&x-collection=GVN&stylesheet=&recordSchema=dcx&startRecord=1001&maximumRecords=300&query=isPartOf%3DKONB14
+
+
+===========================
+
+Centsprenten: GWToolset:Productieomgeving
+Stap 1: 
+-	Template Artwork kiezen
+-	Mapping: https://commons.wikimedia.org/wiki/GWToolset:Metadata_Mappings/OlafJanssen/KB_Centsprenten.json
+-	De beste (test)file tot nu toe M:\WikipediaSamenwerking\Beelddonaties\Centsprenten\OAI-dump\Centsprenten-OAI-dump_31072014_records1-50_ForGWToolsetUpload.xml
+
+In stap 2 de volgende vinkjes aanzetten: 
+-	Wrap creator in the creator template
+-	Wrap institution in the institution template
+-	Wrap metadata in a language template
+-	Attempt to detect the license
+
+
+
+Ruwe SRU-XML en bewerkte GWtoolset-XML ook linken van 
+https://commons.wikimedia.org/wiki/Category:Catchpenny prints from Koninklijke Bibliotheek
+
+Datablog voor Commons, OCD en KB-dataservices schrijven!
+
+===================
+
+
+<dc:subject xsi:type="location" xml:lang="nl">New England</dc:subject>
+<dc:subject xsi:type="location" xml:lang="nl">Verenigde Staten</dc:subject>
+
+
+Match:
+<dc:subject xsi:type="location" xml:lang="nl">(?:(.*\w*.*\.?))</dc:subject>
+
+Replace:
+<location xml:lang="nl">$1</location>

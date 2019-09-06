@@ -1,0 +1,39 @@
+{
+   "accession number": ["ppn"],
+   "artist": ["dc:creator"],
+   "author": [
+      "dc:contributor",
+      "relatedPersons"
+   ],
+   "credit line": [""],
+   "date": ["dcterms:created"],
+   "demo": [""],
+   "department": [""],
+   "description": ["dc:description"],
+   "dimensions": ["dcterms:extent"],
+   "exhibition history": [""],
+   "inscriptions": [""],
+   "institution": ["Institution"],
+   "medium": ["dcterms:medium"],
+   "notes": ["dcx:annotation"],
+   "object history": [""],
+   "object type": ["dc:format"],
+   "other_fields": [""],
+   "other_versions": [""],
+   "permission": ["permission"],
+   "place of creation": ["dcterms:spatial"],
+   "references": [""],
+   "source": [
+      "dc:identifier",
+      "dc:source"
+   ],
+   "strict": [""],
+   "title": ["dc:title"],
+   "wikidata": [""],
+   "gwtoolset-title": [
+      "dc:title",
+      "dcterms:isPartOf",
+      "id2"
+   ],
+   "gwtoolset-url-to-the-media-file": ["dcx:illustration"]
+}

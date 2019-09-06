@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+	<srw:version>1.2</srw:version>
+	<srw:totalMilliSeconds>14352</srw:totalMilliSeconds>
+	<srw:searchEngineMilliSeconds>47</srw:searchEngineMilliSeconds>
+	<srw:kbmdoMilliSeconds>14274</srw:kbmdoMilliSeconds>
+	<srw:numberOfRecords>1280</srw:numberOfRecords>
+	<srw:resultSetId>jfei1vx367</srw:resultSetId>
+	<srw:resultSetIdleTime>300</srw:resultSetIdleTime>
+	<srw:records>
+		<srw:record>
+			<srw:recordPacking>xml</srw:recordPacking>
+			<srw:recordSchema>info:srw/schema/1/dc-v1.1</srw:recordSchema>
+			<srw:recordData>
+				<srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:mods="http://www.loc.gov/mods" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html">
+					<dcx:recordIdentifier>KONB14:PRENT0141</dcx:recordIdentifier>
+					<dc:identifier xsi:type="mpeg21">Source page at the [http://resolver.kb.nl/resolve?urn=urn:gvn:KONB14:PRENT0141 Memory of the Netherlands website]</dc:identifier>
+					<ppn>http://opc4.kb.nl/DB=1/TTL=1/LNG=EN/PPN?PPN=232675163 - description of this print in the catalogue of the KB</ppn>
+					<shelfMark>PRENT 0141</shelfMark>
+					<dcx:illustration xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=urn:gvn:KONB14:PRENT0141&amp;size=large</dcx:illustration>
+					<dc:title>De geschiedenis van Blauwbaard</dc:title>
+					<dc:creator>{{Creator:Charles Perrault}}</dc:creator>
+					<dc:contributor>Author: {{Creator:Charles Perrault}}</dc:contributor>
+					<dc:contributor>Publisher: D. Noothoven van Goor</dc:contributor>
+					<dc:source>{{Koninklijke Bibliotheek}}</dc:source>
+					<permission>{{PD-art|PD-old-70-1923}}</permission>
+					<Institution>Koninklijke Bibliotheek</Institution>
+					<dcterms:created>{{other date|between|1860|1880}}</dcterms:created>  
+					<dcterms:spatial xsi:type="creation">[[:nl:Leiden|Leiden]]</dcterms:spatial>
+					<dc:format>Catchpenny print</dc:format>
+					<dcterms:medium>8 houtsn ({{Woodcut}})</dcterms:medium>
+					<dcterms:extent>{{Size|mm|43|31}}</dcterms:extent>
+					<dcterms:isPartOf xsi:type="collection"> Catchpenny print KB </dcterms:isPartOf>
+					<id2>PRENT 0141</id2>
+					<dcx:annotation xml:lang="nl">Bewerking van het verhaal van Blauwbaard van Charles Perrault. - Prentnr.: 203 - Datering: gebaseerd op jaren van werkzaamheid van de uitgever/drukker - De Meyer (Volks- en kinderprent), p. 108 - Ongekleurde prent - Aan de randen gerafeld; met vlekken van kleuring andere prent</dcx:annotation>
+					<dc:description xml:lang="nl">Centsprent met 4 x 2 houtsneden. Blauwbaard maakt een dame het hof. Ze trouwen, hij vertrekt, geeft haar de sleutels en ze ziet de lijken staan van zijn vorige vrouwen. Ze laat de sleutel in het bloed vallen, Blauwbaard komt terug en ziet dat. Haar zuster staat op de toren en geeft een noodsein. Blauwbaard wil zijn vrouw doden, maar ze wordt door haar broers gered en Blauwbaard wordt gedood. Bevat tweeregelige rijmende onderschriften in Nederlands en Frans.</dc:description>
+				</srw_dc:dc>
+			</srw:recordData>
+			<srw:recordPosition>1</srw:recordPosition>
+		</srw:record>
+		<srw:record>
+			<srw:recordPacking>xml</srw:recordPacking>
+			<srw:recordSchema>info:srw/schema/1/dc-v1.1</srw:recordSchema>
+			<srw:recordData>
+				<srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:mods="http://www.loc.gov/mods" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html">
+					<dcx:recordIdentifier>KONB14:SMC-K0086</dcx:recordIdentifier>
+					<dc:identifier xsi:type="mpeg21">Source page at the [http://resolver.kb.nl/resolve?urn=urn:gvn:KONB14:SMC-K0086 Memory of the Netherlands website]</dc:identifier>
+					<ppn>http://opc4.kb.nl/DB=1/TTL=1/LNG=EN/PPN?PPN=296622877 - description of this print in the catalogue of the KB</ppn>
+					<shelfMark>SMC K 0086</shelfMark>
+					<dcx:illustration xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=urn:gvn:KONB14:SMC-K0086&amp;size=large</dcx:illustration>
+					<dc:title>Het vermaak der kinderen</dc:title>
+					<dc:creator>Dirk van Lubeek (1747-1811)</dc:creator>
+					<dc:contributor>Author: Dirk van Lubeek (1747-1811)</dc:contributor>
+					<dc:contributor>Author: Hermanus van Lubeek (1770-1807)</dc:contributor>
+					<dc:contributor>Publisher: Jacobus Thompson</dc:contributor>
+					<dc:source>{{Koninklijke Bibliotheek}}</dc:source>
+					<permission>{{PD-art|PD-old-70-1923}}</permission>
+					<Institution>Koninklijke Bibliotheek</Institution>
+					<dcterms:created>{{other date|between|1791|1812}}</dcterms:created>
+					<dcterms:spatial xsi:type="creation">[[:nl:Rotterdam|Rotterdam]]</dcterms:spatial>
+					<dc:format>Catchpenny print</dc:format>
+					<dcterms:medium>2 houtsn ({{Woodcut}})</dcterms:medium>
+					<dcterms:extent>{{Size|cm|40|30}}</dcterms:extent>
+					<dcterms:isPartOf xsi:type="collection"> Catchpenny print KB </dcterms:isPartOf>
+					<id2>SMC K 0086</id2>
+					<dcx:annotation xml:lang="nl">Prentnr.: [3] - Gesigneerd: Lubeek is Dirk of Hermanus van Lubeek - Onderaan de prent staat de naam van de drukker: Te Rotterdam, gedrukt by Jacobus Thompson, boekverkooper op de Hoogstraat, by de Nauwemarktsteeg - Datering: gebaseerd op jaren van werkzaamheid van de uitgever/drukker - De Meyer (Volks- en kinderprent), p. 313 (Thompson 3) - Collectie Landwehr-Vogels - Vlekkenkleuring met geel en oranje - Alle marges ver afgesneden, hersteld aan achterzijde - Gedrukt op gevergeerd papier</dcx:annotation>
+					<dc:description xml:lang="nl">Centsprent met 2 grote omkaderde houtsneden met sierrand en afbeeldingen in ovaal. Op de bovenste afbeelding drie kinderen die kippen voeren, op de onderste twee kinderen en een hond bij het eenden voeren. Bevat onder elke houtsnede twee vierregelige rijmende onderschriften.</dc:description>
+				</srw_dc:dc>
+			</srw:recordData>
+			<srw:recordPosition>2</srw:recordPosition>
+		</srw:record>
+		<srw:record>
+			<srw:recordPacking>xml</srw:recordPacking>
+			<srw:recordSchema>info:srw/schema/1/dc-v1.1</srw:recordSchema>
+			<srw:recordData>
+				<srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:mods="http://www.loc.gov/mods" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html">
+					<dcx:recordIdentifier>KONB14:SMC-K0022</dcx:recordIdentifier>
+					<dc:identifier xsi:type="mpeg21">Source page at the [http://resolver.kb.nl/resolve?urn=urn:gvn:KONB14:SMC-K0022 Memory of the Netherlands website]</dc:identifier>
+					<ppn>http://opc4.kb.nl/DB=1/TTL=1/LNG=EN/PPN?PPN=296598534 - description of this print in the catalogue of the KB</ppn>
+					<shelfMark>SMC K 0022</shelfMark>
+					<dcx:illustration xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=urn:gvn:KONB14:SMC-K0022&amp;size=large</dcx:illustration>
+					<dc:title>Die ware vreugd op't ijs wil smaken, Moet steeds voor zijn gezondheid waken</dc:title>
+					<dc:contributor>Publisher: G.L. Funke</dc:contributor>
+					<dc:source>{{Koninklijke Bibliotheek}}</dc:source>
+					<permission>{{PD-art|PD-old-70-1923}}</permission>
+					<Institution>Koninklijke Bibliotheek</Institution>
+					<dcterms:created>{{other date|between|1860|1880}}</dcterms:created>
+					<dcterms:spatial xsi:type="creation">[[:nl:Amsterdam|Amsterdam]]</dcterms:spatial>
+					<dc:format>Catchpenny print</dc:format>
+					<dcterms:medium>8 lith ({{Lithography}})</dcterms:medium>
+					<dcterms:extent>{{Size|cm|42|31}}</dcterms:extent>
+					<dcterms:isPartOf xsi:type="collection"> Catchpenny print KB </dcterms:isPartOf>
+					<id2>SMC K 0022</id2>
+					<dcx:annotation xml:lang="nl">Titel ontleend aan onderschrift eerste afbeelding - Datering: gebaseerd op jaren van werkzaamheid van de uitgever/drukker - Collectie Landwehr-Vogels - Titel en nummer afgesneden dus onbekend, verder goed ex - Ongekleurde prent - [Nieuwe Nederlandsche kinderprenten]; </dcx:annotation>
+					<dc:description xml:lang="nl">Centsprent met 4 x 2 omkaderde litho's, met afbeeldingen van kinderen en winterpret: schaatsen, sleeën, een sneeuwgevecht, een sneeuwpop maken, een arreslee met paard, verkoop van warme melk. Bevat tweeregelige rijmende onderschriften.</dc:description>
+				</srw_dc:dc>
+			</srw:recordData>
+			<srw:recordPosition>3</srw:recordPosition>
+		</srw:record>
+		<srw:record>
+			<srw:recordPacking>xml</srw:recordPacking>
+			<srw:recordSchema>info:srw/schema/1/dc-v1.1</srw:recordSchema>
+			<srw:recordData>
+				<srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:mods="http://www.loc.gov/mods" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html">
+					<dcx:recordIdentifier>KONB14:SMC-K0097</dcx:recordIdentifier>
+					<dc:identifier xsi:type="mpeg21">Source page at the [http://resolver.kb.nl/resolve?urn=urn:gvn:KONB14:SMC-K0097 Memory of the Netherlands website]</dc:identifier>
+					<ppn>http://opc4.kb.nl/DB=1/TTL=1/LNG=EN/PPN?PPN=296619442 - description of this print in the catalogue of the KB</ppn>
+					<shelfMark>SMC K 0097</shelfMark>
+					<dcx:illustration xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=urn:gvn:KONB14:SMC-K0097&amp;size=large</dcx:illustration>
+					<dc:title>Honden en katten</dc:title>
+					<dc:contributor>Publisher: I. de Haan</dc:contributor>
+					<dc:source>{{Koninklijke Bibliotheek}}</dc:source>
+					<permission>{{PD-art|PD-old-70-1923}}</permission>
+					<Institution>Koninklijke Bibliotheek</Institution>
+					<dcterms:created>{{other date|between|1880|1901}}</dcterms:created>
+					<dcterms:spatial xsi:type="creation">[[:nl:Haarlem|Haarlem]]</dcterms:spatial>
+					<dc:format>Catchpenny print</dc:format>
+					<dcterms:medium>chromolitho's ({{Lithography}})</dcterms:medium>
+					<dcterms:extent>{{Size|cm|45|35}}</dcterms:extent>
+					<dcterms:isPartOf xsi:type="collection"> Catchpenny print KB </dcterms:isPartOf>
+					<id2>SMC K 0097</id2>
+					<dcx:annotation xml:lang="nl">Datering: gebaseerd op jaren van werkzaamheid van de uitgever/drukker - Niet in De Meyer (Volks- en kinderprent) - Collectie Landwehr-Vogels - Een zijkant aan achterzijde hersteld - Nieuwe Nederlandsche Kinderprenten (Funke's prenten); No. 140</dcx:annotation>
+					<dc:description xml:lang="nl">Centsprent met een in kleur gedrukte litho, met daarop 6 afbeeldingen (door takkenranden gescheiden) met afbeeldingen van honden en katten. Bevat onderaan drie vierregelige rijmende verzen.</dc:description>
+				</srw_dc:dc>
+			</srw:recordData>
+			<srw:recordPosition>4</srw:recordPosition>
+		</srw:record>
+		<srw:record>
+			<srw:recordPacking>xml</srw:recordPacking>
+			<srw:recordSchema>info:srw/schema/1/dc-v1.1</srw:recordSchema>
+			<srw:recordData>
+				<srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:mods="http://www.loc.gov/mods" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html">
+					<dcx:recordIdentifier>KONB14:SMC-K0075</dcx:recordIdentifier>
+					<dc:identifier xsi:type="mpeg21">Source page at the [http://resolver.kb.nl/resolve?urn=urn:gvn:KONB14:SMC-K0075 Memory of the Netherlands website]</dc:identifier>
+					<ppn>http://opc4.kb.nl/DB=1/TTL=1/LNG=EN/PPN?PPN=258559608 - description of this print in the catalogue of the KB</ppn>
+					<shelfMark>SMC K 0075</shelfMark>
+					<dcx:illustration xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=urn:gvn:KONB14:SMC-K0075&amp;size=large</dcx:illustration>
+					<dc:title>Laurens Koster, uitvinder der boekdrukkunst in den jare 1421, te Haarlem</dc:title>
+					<dcterms:alternative>Laurent Koster, inventeur de l'imprimerie l'an 1421, a Haarlem</dcterms:alternative>
+					<dc:contributor>[[:nl:Alexander_Cranendoncq|Alexander Cranendoncq (1799-1869)]]</dc:contributor>
+					<dc:contributor>Publisher: [[:nl:Brepols|Brepols &amp; Dierckx zoon]]</dc:contributor>
+					<relatedPersons>{{Information field|name=Persons related to this object|value=[[:nl:Laurens_Janszoon_Coster|Laurens Janszoon Coster]]}}</relatedPersons>
+					<dc:source>{{Koninklijke Bibliotheek}}</dc:source>
+					<permission>{{PD-art|PD-old-70-1923}}</permission>
+					<Institution>Koninklijke Bibliotheek</Institution>
+					<dcterms:created>{{other date|between|1833|1880}}</dcterms:created>
+					<dcterms:spatial xsi:type="creation">[[:nl:Turnhout|Turnhout]]</dcterms:spatial>
+					<dc:format>Catchpenny print</dc:format>
+					<dcterms:medium>houtsn ({{Woodcut}})</dcterms:medium>
+					<dcterms:isPartOf xsi:type="collection"> Catchpenny print KB </dcterms:isPartOf>
+					<id2>SMC K 0075</id2>
+					<dcx:annotation xml:lang="nl">Prentnr.: 195B - Centsprent van het standbeeld van L.J. Coster in de Prinsenhof te Haarlem door Gerrit van Heerstal - Gesigneerd met A.C. (= Alexander Cranendoncq). - Zie: J. Becker en A. Ouwerkerk, ''De eer des vaderlands te handhaven': Costerbeelden als argumenten in de strijd', in: Oud Holland 99 (1985), p.229-270 - Datering: gebaseerd op jaren van werkzaamheid van de uitgever/drukker - De Meyer (Volks- en kinderprent) (Brepols 195) - Vansummeren, p. 212, nr. 195 - Collectie Landwehr-Vogels - Groot deel aan achterzijde hersteld, kreukels, papierverlies - Sjabloonkleuring met bruin, blauw, geel, groen</dcx:annotation>
+					<dc:description xml:lang="nl">Centsprent met een grote dubbel omkaderde houtsnede met een afbeelding van het standbeeld van Coster op een sokkel, met twee maal een vierregelig onderschrift in Nederlands en Frans.</dc:description>
+				</srw_dc:dc>
+			</srw:recordData>
+			<srw:recordPosition>5</srw:recordPosition>
+		</srw:record>
+		</srw:records>
+	<srw:echoedSearchRetrieveRequest>
+		<srw:version>1.2</srw:version>
+		<srw:query>isPartOf=KONB14</srw:query>
+		<srw:startRecord>1001</srw:startRecord>
+		<srw:maximumRecords>300</srw:maximumRecords>
+		<srw:recordSchema>dcx</srw:recordSchema>
+		<srw:resultSetTTL>300</srw:resultSetTTL>
+		<srw:extraRequestData>
+			<collection>GVN</collection>
+		</srw:extraRequestData>
+	</srw:echoedSearchRetrieveRequest>
+</srw:searchRetrieveResponse>
