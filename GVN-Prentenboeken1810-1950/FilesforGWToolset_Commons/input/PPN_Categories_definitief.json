@@ -1,0 +1,874 @@
+{
+	"06333948X": {
+		"HomeCat": "Category:Moeder Hubbard en haar hond",
+		"AnnotationCats": "Category:Old Mother Hubbard"
+	},
+	"852291590": {
+		"HomeCat": "Category:Abé-boekje voor lieve kinderen",
+		"SubjectCats": "Category:Alphabet books from The Netherlands"
+	},
+	"862833728": {
+		"HomeCat": "Category:Alphabet tot nut en vermaak der jeugd",
+		"SubjectCats": "Category:Alphabet books from The Netherlands "
+	},
+	"242610471": {
+		"HomeCat": "Category:Alphabetisch letterkransje",
+		"SubjectCats": "Category:Alphabet books from The Netherlands"
+	},
+	"03665874X": {
+		"HomeCat": "Category:Ambachten en bedrijven - geschenk voor de jeugd",
+		"SubjectCats": "Category:Occupations in children's books"
+	},
+	"865656142": {
+		"HomeCat": "Category:Asschepoester in het cirque Carré",
+		"AuteurCats": "Category:Charles Perrault",
+		"SubjectCats": "Category:Koninklijk Theater Carré",
+		"AlternativeCats": "Category:Cinderella"
+	},
+	"036164038": {
+		"HomeCat": "Category:Asschepoester of Het glazen muiltje",
+		"AuteurCats": "Category:Charles Perrault",
+		"AlternativeCats": "Category:Cinderella"
+	},
+	"040879755": {
+		"HomeCat": "Category:Bilderfibel - Prenten AB Boek",
+		"SubjectCats": "Category:Alphabet books from The Netherlands"
+	},
+	"864935048": {
+		"HomeCat": "Category:Blinde Maarten",
+		"SubjectCats": "Category:People with visual impairment in art"
+	},
+	"040909468": {
+		"HomeCat": "Category:Bloemen en bladen - letterkransje voor lieve kinderen",
+		"SubjectCats": "Category:Alphabet books from The Netherlands"
+	},
+	"040882942": {
+		"HomeCat": "Category:De appeldieven en De Blaauwkuip - twee ware geschiedenissen",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Thieves in art"
+	},
+	"865135479": {
+		"HomeCat": "Category:De boerderij - nieuw prentenboek",
+		"SubjectCats": "Category:Farms in art",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands",
+		"DescriptionCats": "Category:Countryside in art"
+	},
+	"120626640": {
+		"HomeCat": "Category:De dierenvrienden",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"852237154": {
+		"HomeCat": "Category:De dierenwereld in rijmpjes voor jonge kinderen",
+		"UitgeverCats": "Category:Occupations in children's books",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"865655707": {
+		"HomeCat": "Category:De drie beeren",
+		"AlternativeCats": "Category:The Three Bears"
+	},
+	"86390288X": {
+		"HomeCat": "Category:De gelaarsde kat of Hoe de marquis van Carabas een groot en rijk heer werd",
+		"AuteurCats": "Category:Charles Perrault",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Puss in boots",
+		"DescriptionCats": "Category:Cats acting as humans in art"
+	},
+	"14284070X": {
+		"HomeCat": "Category:De genoegens van het landleven",
+		"SubjectCats": "Category:Countryside in art",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"862139503": {
+		"HomeCat": "Category:De geschiedenis van de vijf biggetjes",
+		"SubjectCats": "Category:Animals acting as humans in art",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"852419848": {
+		"HomeCat": "Category:De geschiedenis van een goed en van een kwaad kind",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"863903002": {
+		"HomeCat": "Category:De geschiedenis van Klein Duimpje",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Le Petit Poucet"
+	},
+	"852266073": {
+		"HomeCat": "Category:De geschiedenis van mijnheer Kardoes en mejufvrouw Muizenschrik",
+		"SubjectCats": "Category:Dogs acting as humans in art",
+		"AnnotationCats": "Category:Cats acting as humans in art",
+		"DescriptionCats": "Category:Rhyming stories from The Netherlands",
+		"AlternativeCats": "Category:Humorous books"
+	},
+	"152055185": {
+		"HomeCat": "Category:De haringvisscherij",
+		"SubjectCats": "Category:Fishing boats in art",
+		"DescriptionCats": "Category:History of fishing",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"12170971X": {
+		"HomeCat": "Category:De historie van de kaboutermannetjes - een sprookje",
+		"SubjectCats": "Category:Gnomes",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"852215479": {
+		"HomeCat": "Category:De kermis en wat er op te zien is - een prenteboek met rijmen",
+		"SubjectCats": "Category:Funfairs in art",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"84236305X": {
+		"HomeCat": "Category:De kermisartisten of de Viervoetige kunstenmakers voor het kleine publiek",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Dogs acting as humans in art",
+		"AlternativeCats": "Category:Funfairs in art"
+	},
+	"865867607": {
+		"HomeCat": "Category:De kerstboom en andere verhalen",
+		"SubjectCats": "Category:Animals acting as humans in art"
+	},
+	"852309430": {
+		"HomeCat": "Category:De kijkkast - op het land",
+		"SubjectCats": "Category:Farms in art"
+	},
+	"121692256": {
+		"HomeCat": "Category:De kikvorsch en de os en andere fabelen",
+		"AuteurCats": "Category:Works by Jean de La Fontaine",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"864618085": {
+		"HomeCat": "Category:De kinderen van t woud",
+		"SubjectCats": "Category:Babes in the Wood"
+	},
+	"12717088X": {
+		"HomeCat": "Category:De kleine Jan Groen",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"86493310X": {
+		"HomeCat": "Category:De kleine Jo"
+	},
+	"197988628": {
+		"HomeCat": "Category:De kleine mama Pauline en hare pop Marie",
+		"SubjectCats": "Category:Doll stories from The Netherlands"
+	},
+	"852266561": {
+		"HomeCat": "Category:De kluchtige aap en het poesje",
+		"UitgeverCats": "Category:Humorous books",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Monkeys acting as humans in art",
+		"DescriptionCats": "Category:Cats acting as humans in art"
+	},
+	"852266812": {
+		"HomeCat": "Category:De kluchtige poes en het hondje",
+		"UitgeverCats": "Category:Rhyming stories from The Netherlands",
+		"SubjectCats": "Category:Humorous books",
+		"AnnotationCats": "Category:Cats acting as humans in art",
+		"DescriptionCats": "Category:Dogs acting as humans in art"
+	},
+	"864542380": {
+		"HomeCat": "Category:De koningin der poppen",
+		"SubjectCats": "Category:Doll stories from The Netherlands"
+	},
+	"040553884": {
+		"HomeCat": "Category:De lotgevallen van Robinson Crusoe",
+		"SubjectCats": "Category:Robinson Crusoe"
+	},
+	"84421096X": {
+		"HomeCat": "Category:De luchtballon van Godard en Kermisvreugde",
+		"SubjectCats": "Category:Funfairs in art",
+		"AnnotationCats": "Category:Balloon aircraft in art"
+	},
+	"036716626": {
+		"HomeCat": "Category:De moeder in 12 afbeeldingen met toepasselijke versjes voor kinderen",
+		"SubjectCats": "Category:Mothers and children in art",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"036667579": {
+		"HomeCat": "Category:De natuur in afbeeldingen",
+		"SubjectCats": "Category:All seasons in art",
+		"DescriptionCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"15790587X": {
+		"HomeCat": "Category:De natuur in twaalf afbeeldingen voor de jeugd",
+		"SubjectCats": "Category:Four elements",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands",
+		"DescriptionCats": "Category:All seasons in art"
+	},
+	"853126011": {
+		"HomeCat": "Category:De Nederlandsche schutterij - een prenteboekje voor de jeugd",
+		"SubjectCats": "Category:Civic guard of the Netherlands"
+	},
+	"038189240": {
+		"HomeCat": "Category:De nieuwe kijkkast - Nova Zembla",
+		"SubjectCats": "Category:Jacob van Heemskerk",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands",
+		"DescriptionCats": "Category:Willem Barentsz",
+		"UitgeverCats": "Category:History of Novaya Zemlya"
+	},
+	"811522679": {
+		"HomeCat": "Category:De nieuwe rarekiek van den ouden korporaal Smit",
+		"SubjectCats": "Category:Funfairs in art"
+	},
+	"864945345": {
+		"HomeCat": "Category:De olifanten en de muisjes",
+		"SubjectCats": "Category:Animals acting as humans in art",
+		"UitgeverCats": "Category:Anthropomorphic elephants",
+		"AnnotationCats": "Category:Anthropomorphic mice"
+	},
+	"851932150": {
+		"HomeCat": "Category:De ondeugende kinderen - een vermakelijk prenteboek met rijmen",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"864143214": {
+		"HomeCat": "Category:De partij van Fidel en Fidelia",
+		"SubjectCats": "Category:Dogs acting as humans in art"
+	},
+	"142022624": {
+		"HomeCat": "Category:De poes en de hond - vertellingen voor de jeugd",
+		"SubjectCats": "Category:Females with cats in art",
+		"AnnotationCats": "Category:Dogs in art",
+		"DescriptionCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"036604593": {
+		"HomeCat": "Category:De poppenkast en andere verhaaltjes voor de jeugd"
+	},
+	"862138574": {
+		"HomeCat": "Category:De reis naar de maan",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Humorous books"
+	},
+	"864935404": {
+		"HomeCat": "Category:De roodborstjes",
+		"SubjectCats": "Category:Birds acting as humans in art"
+	},
+	"851947158": {
+		"HomeCat": "Category:De schoone slaapster in het bosch (1869)",
+		"AuteurCats": "Category:Charles Perrault",
+		"AlternativeCats": "Category:Sleeping Beauty"
+	},
+	"851935044": {
+		"HomeCat": "Category:De twaalf maanden in platen en versjes",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Months in art"
+	},
+	"854289976": {
+		"HomeCat": "Category:De twaalf maanden van het jaar in zestig tafereeltjes",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Months in art"
+	},
+	"043900925": {
+		"HomeCat": "Category:De wereld in haar Zondagspak - een geschenk voor de leergrage jeugd",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"865843163": {
+		"HomeCat": "Category:De wonderbare avonturen van ridder Don Quichot van Mancha",
+		"AlternativeCats": "Category:Books of Don Quixote"
+	},
+	"037064711": {
+		"HomeCat": "Category:De zonderlinge lotgevallen van Hans Kijk-in-de-wereld",
+		"SubjectCats": "Category:Funfairs in art",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands",
+		"DescriptionCats": "Category:Humorous books"
+	},
+	"127170731": {
+		"HomeCat": "Category:Des landmans vreugd",
+		"SubjectCats": "Category:Farms in art",
+		"DescriptionCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"258264225": {
+		"HomeCat": "Category:Een aardig prentenboek met leerzame vertellingen",
+		"AuteurCats": "Category:Works by Heinrich Hoffmann (writer)",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"124486932": {
+		"HomeCat": "Category:Een aardig prentenboek met leerzame vertellingen naar het beroemde Hoogduitsche kinderwerk Der Struwwelpeter",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Struwwelpeter"
+	},
+	"290992842": {
+		"HomeCat": "Category:Een boekje met prentjes waarbij wat te lezen staat voor brave kinderen - Deel 1",
+		"SubjectCats": "Category:Animals in art of the Netherlands",
+		"AnnotationCats": "Category:Conduct books"
+	},
+	"290992966": {
+		"HomeCat": "Category:Een boekje met prentjes waarbij wat te lezen staat voor brave kinderen - Deel 2",
+		"UitgeverCats": "Category:Rhyming stories from The Netherlands",
+		"SubjectCats": "Category:Conduct books"
+	},
+	"852012926": {
+		"HomeCat": "Category:Een lief boekje voor zoete kinderen",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"851942520": {
+		"HomeCat": "Category:Een nieuw aardig prentenboek - als vervolg op het beroemde kinderwerk Der Struwwelpeter",
+		"AuteurCats": "Category:Struwwelpeter",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"263819787": {
+		"HomeCat": "Category:Een nieuw aardig prentenboek als vervolg op het beroemde Hoogduitschea kinderwerk Der Struwwelpeter",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Struwwelpeter"
+	},
+	"865111847": {
+		"HomeCat": "Category:Een nieuw boek voor moeders om de kinderen al spelende te leeren",
+		"SubjectCats": "Category:Educational books"
+	},
+	"851628745": {
+		"HomeCat": "Category:Een nuttig en prettig boek voor kinderen - plakalbum met platen om uit te knippen"
+	},
+	"036761958": {
+		"HomeCat": "Category:Eerste kindergedichtjes aan moeders schoot",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"864935250": {
+		"HomeCat": "Category:Evas bal"
+	},
+	"851468403": {
+		"HomeCat": "Category:Feestgeschenk voor onze jongens en meisjes bij het zilvren feest van Z.M. den Koning",
+		"SubjectCats": "Category:William I of the Netherlands",
+		"AnnotationCats": "Category:William II of the Netherlands",
+		"DescriptionCats": "Category:William III of the Netherlands"
+	},
+	"143309765": {
+		"HomeCat": "Category:Fidel en zijn kameraadjes",
+		"AnnotationCats": "Category:Dogs in art"
+	},
+	"083127151": {
+		"HomeCat": "Category:Galerij van mannelijke bedrijven voor de Nederlandsche jeugd",
+		"SubjectCats": "Category:Occupations in children's books",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"852007752": {
+		"HomeCat": "Category:Galerij van vrouwelijke bedrijven voor de Nederlandsche jeugd",
+		"SubjectCats": "Category:Occupations in children's books",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"043914357": {
+		"HomeCat": "Category:Gelukkig Hansje - eene vertelling voor kinderen (184X)",
+		"AuteurCats": "Category:Books by Brothers Grimm",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"852331819": {
+		"HomeCat": "Category:Gelukkig Hansje - eene vertelling voor kinderen (185X)",
+		"AuteurCats": "Category:Books by Brothers Grimm",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"865867410": {
+		"HomeCat": "Category:Geschiedenis van een rijksdaalder en een cent",
+		"AuteurCats": "Category:Rijksdaalder",
+		"UitgeverCats": "Category:Coins in art"
+	},
+	"121702871": {
+		"HomeCat": "Category:Gevallen hoogmoed met gekleurde plaatjes",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"865745102": {
+		"HomeCat": "Category:Goede vriendschap - een geschiedenisje voor kleine zeer jonge dames",
+		"SubjectCats": "Category:Drawings of girls"
+	},
+	"180119664": {
+		"HomeCat": "Category:Goeverneurs kindergeschenk - prentjes versjes en vertelseltjes",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"053867203": {
+		"HomeCat": "Category:Gouden prentjes en lieve versjes",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"037352245": {
+		"HomeCat": "Category:Groot en vermakelijk prenttafereel bestaande in meer dan vier honderd soorten...",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"040976432": {
+		"HomeCat": "Category:Haantje Kukeleku - eene geschiedenis ter waarschuwing van de lieve jeugd",
+		"AuteurCats": "Category:Gustav Süs",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Birds acting as humans in art"
+	},
+	"851936709": {
+		"HomeCat": "Category:Het aardige boertje",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Nursery rhymes"
+	},
+	"040908585": {
+		"HomeCat": "Category:Het avontuurlijke leven van Peter Vucht",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Rodolphe Töpffer"
+	},
+	"865040508": {
+		"HomeCat": "Category:Het beestenboekje - voor jongens en meisjes",
+		"SubjectCats": "Category:Drawings of animals"
+	},
+	"138339465": {
+		"HomeCat": "Category:Het boek op linnen - een onverslijtelijk alphabet",
+		"SubjectCats": "Category:Alphabet books from The Netherlands"
+	},
+	"036604704": {
+		"HomeCat": "Category:Het dierenrijk in afbeeldingen",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"040914518": {
+		"HomeCat": "Category:Het haasje in t kruid",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"851955428": {
+		"HomeCat": "Category:Het ijzersterke prentenboek"
+	},
+	"864946384": {
+		"HomeCat": "Category:Het jonge volkje - beelden uit het kinderleven",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"861697863": {
+		"HomeCat": "Category:Het leerzame prenteboekje voor kinderen - Deel 2",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AlternativeCats": "Category:Occupations in children's books"
+	},
+	"861697936": {
+		"HomeCat": "Category:Het leerzame prenteboekje voor kinderen - Deel 4",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"85193353X": {
+		"HomeCat": "Category:Het leven van Jan Klaassen verteld aan de Nederlandsche jeugd",
+		"AuteurCats": "Category:Jan Schenkman",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Fictional characters of the Netherlands"
+	},
+	"852472471": {
+		"HomeCat": "Category:Het lieve boek - waarin men vindt beschreven en afgebeeld naar t leven",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"040918653": {
+		"HomeCat": "Category:Het menschelyke leven",
+		"UitgeverCats": "Category:Ages of man",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"85200723X": {
+		"HomeCat": "Category:Het nut van de dierenhuid",
+		"SubjectCats": "Category:Leather processing"
+	},
+	"864945183": {
+		"HomeCat": "Category:Het theesalet van Pieteloet",
+		"SubjectCats": "Category:Cats acting as humans in art"
+	},
+	"145599035": {
+		"HomeCat": "Category:Het verloren lammetje",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"04092114X": {
+		"HomeCat": "Category:Het vogelen-abé-boek - een geschenk voor zoete kinderen",
+		"SubjectCats": "Category:Alphabet books from The Netherlands",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands",
+		"DescriptionCats": "Category:Illustrations of birds"
+	},
+	"043939562": {
+		"HomeCat": "Category:Het vrolijke prentenboek voor kinderen",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"107294168": {
+		"HomeCat": "Category:Historie van het huis van Adriaan - eene grappige vertelling (1834)",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Nursery rhymes",
+		"DescriptionCats": "Category:The House that Jack Built"
+	},
+	"197581226": {
+		"HomeCat": "Category:Historie van het huis van Adriaan - eene grappige vertelling (1870)",
+		"SubjectCats": "Category:Nursery rhymes",
+		"AnnotationCats": "Category:The House that Jack Built",
+		"DescriptionCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"862116325": {
+		"HomeCat": "Category:Hoe men huizen bouwt - een prentenboek voor jongens en meisjes"
+	},
+	"040915980": {
+		"HomeCat": "Category:Hoe men zijn brood verdient - ABC",
+		"UitgeverCats": "Category:Occupations in children's books",
+		"SubjectCats": "Category:Alphabet books from The Netherlands",
+		"AlternativeCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"040512193": {
+		"HomeCat": "Category:Hoe raar een knikker rollen kan - een kluchtig verhaal",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"851936547": {
+		"HomeCat": "Category:Hopsasa - knie- en bakerdeuntjes uit de oude doos",
+		"SubjectCats": "Category:Nursery rhymes",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"863161588": {
+		"HomeCat": "Category:Iconomanie of Zoo maken de kinderen een prentenboek",
+		"SubjectCats": "Category:Multilingual books"
+	},
+	"865106592": {
+		"HomeCat": "Category:Jan Heldengeest als soldaat",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"293909482": {
+		"HomeCat": "Category:Johns Diorama"
+	},
+	"852075618": {
+		"HomeCat": "Category:Jongensrampen - schetsen met bijschriften",
+		"SubjectCats": "Category:Humorous books"
+	},
+	"036668028": {
+		"HomeCat": "Category:Jongensspelen - verhaaltjes voor de jeugd",
+		"SubjectCats": "Category:Boys in art",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"140610081": {
+		"HomeCat": "Category:Jongensspelen",
+		"SubjectCats": "Category:Boys in art"
+	},
+	"044318324": {
+		"HomeCat": "Category:Juffrouw Ruffel en hare zeven geleerde poesjes",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Cats acting as humans in art"
+	},
+	"852520239": {
+		"HomeCat": "Category:Kermis-tafreeltjes in geëtste kunstplaatjes",
+		"AuteurCats": "Category:Rhyming stories from The Netherlands",
+		"SubjectCats": "Category:Funfairs in art"
+	},
+	"850442060": {
+		"HomeCat": "Category:Kinderrijmpjes",
+		"UitgeverCats": "Category:Alphabet books from The Netherlands",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"863700578": {
+		"HomeCat": "Category:Klein Duimpje - een sprookje van Moeder de Gans",
+		"AuteurCats": "Category:Charles Perrault",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Le Petit Poucet"
+	},
+	"127170847": {
+		"HomeCat": "Category:Kleine Louise en haar broertje",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Drawings of children"
+	},
+	"865300720": {
+		"HomeCat": "Category:Kleine Nelly",
+		"SubjectCats": "Category:Poverty in art"
+	},
+	"266993591": {
+		"HomeCat": "Category:Kluchtige tafereelen van Grootje Goedsloof met haar aardig hondje Blaf",
+		"SubjectCats": "Category:Dogs acting as humans in art",
+		"AlternativeCats": "Category:Old Mother Hubbard",
+		"DescriptionCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Humorous books"
+	},
+	"274443090": {
+		"HomeCat": "Category:Kooplieden op straat - met 16 gekleurde plaatjes",
+		"SubjectCats": "Category:Occupations in children's books"
+	},
+	"137150105": {
+		"HomeCat": "Category:Kwik de pluimstaart - een verhaal voor jongens",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"142926396": {
+		"HomeCat": "Category:Landelijke tafereelen - Deel 1",
+		"SubjectCats": "Category:Countryside in art",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"040916804": {
+		"HomeCat": "Category:Landelijke tafereelen - Deel 2",
+		"SubjectCats": "Category:Countryside in art",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"852129297": {
+		"HomeCat": "Category:Leerzaam allerlei voor de lieve kleinen",
+		"SubjectCats": "Category:Farms in art",
+		"AnnotationCats": "Category:Alphabet books from The Netherlands"
+	},
+	"047359641": {
+		"HomeCat": "Category:Lettergeschenk voor de lieve jeugd in poëzij en proza",
+		"SubjectCats": "Category:Occupations in children's books"
+	},
+	"041086929": {
+		"HomeCat": "Category:Letterkransje gevlochten voor zoete kinderen die gaarne leeren",
+		"SubjectCats": "Category:Alphabet books from The Netherlands",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"865658943": {
+		"HomeCat": "Category:Leven en bedrijf van Daniel Dom genaamd Domme Daan",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"851988636": {
+		"HomeCat": "Category:Lief en leed - geschenk voor brave kinderen"
+	},
+	"864935757": {
+		"HomeCat": "Category:Lines verjaardag - een verhaal voor meisjes",
+		"SubjectCats": "Category:Drawings of girls"
+	},
+	"037064819": {
+		"HomeCat": "Category:Loontje komt om zijn boontje of Het droevige slot der guiterijen",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Humorous books"
+	},
+	"864616155": {
+		"HomeCat": "Category:Lotgevallen van Jonker Adolf",
+		"UitgeverCats": "Category:Books about horses",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands",
+		"DescriptionCats": "Category:Humorous books"
+	},
+	"864944799": {
+		"HomeCat": "Category:Lucie en hare moeder"
+	},
+	"852348681": {
+		"HomeCat": "Category:Meisjes spelen",
+		"SubjectCats": "Category:Drawings of girls",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands "
+	},
+	"864945272": {
+		"HomeCat": "Category:Moeders raad",
+		"SubjectCats": "Category:Poverty in art"
+	},
+	"864945760": {
+		"HomeCat": "Category:Mooi Elsje",
+		"AuteurCats": "Category:Jeanne-Marie Leprince de Beaumont",
+		"UitgeverCats": "Category:Beauty and the Beast (Walter Crane)",
+		"AlternativeCats": "Category:Beauty and theBeast"
+	},
+	"109753747": {
+		"HomeCat": "Category:Na de speeluren - rijmpjes bij prentjes voor lieve kinderen",
+		"UitgeverCats": "Category:Conduct books",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"852150164": {
+		"HomeCat": "Category:Nederlandsche kleederdragten - een geschenk voor knapen en meisjes",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"DescriptionCats": "Category:National costumes of the Netherlands"
+	},
+	"852446403": {
+		"HomeCat": "Category:Nederlandsche kleederdragten - nieuw prentenboek voor de jeugd - Deel 1",
+		"SubjectCats": "Category:Occupations in children's books",
+		"DescriptionCats": "Category:National costumes of the Netherlands",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"290984297": {
+		"HomeCat": "Category:Nederlandsche kleederdragten - nieuw prentenboek voor de jeugd - Deel 2",
+		"SubjectCats": "Category:Occupations in children's books",
+		"AnnotationCats": "Category:National costumes of the Netherlands",
+		"DescriptionCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"290984319": {
+		"HomeCat": "Category:Nederlandsche kleederdragten - nieuw prentenboek voor de jeugd - Deel 3",
+		"SubjectCats": "Category:Occupations in children's books",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands",
+		"DescriptionCats": "Category:National costumes of the Netherlands"
+	},
+	"153409576": {
+		"HomeCat": "Category:Nederlandsche spreekwoorden - prentenboek voor kinderen",
+		"SubjectCats": "Category:Book of Proverbs",
+		"UitgeverCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"040879860": {
+		"HomeCat": "Category:Neues Bilder ABC Buch für fleissige Kinder",
+		"SubjectCats": "Category:Alphabet books from The Netherlands",
+		"AnnotationCats": "Category:Bilingual books"
+	},
+	"139480439": {
+		"HomeCat": "Category:Nieuw A B boekje voor de jeugd - met 24 gekleurde plaatjes",
+		"SubjectCats": "Category:Alphabet books from The Netherlands"
+	},
+	"851964206": {
+		"HomeCat": "Category:Nieuw AB boek naar een oud rijmpje en op een aardig wijsje (1856)",
+		"AuteurCats": "Category:Jan Schenkman",
+		"UitgeverCats": "Category:Rhyming stories from The Netherlands",
+		"SubjectCats": "Category:Alphabet books from The Netherlands"
+	},
+	"201117251": {
+		"HomeCat": "Category:Nieuw AB boek naar een oud rijmpje en op een aardig wijsje (187X)",
+    	"AuteurCats": "Category:Jan Schenkman",
+		"SubjectCats": "Category:Alphabet books from The Netherlands",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"040919323": {
+		"HomeCat": "Category:Nieuw Prent ABC boekje",
+		"SubjectCats": "Category:Alphabet books from The Netherlands"
+	},
+	"040412881": {
+		"HomeCat": "Category:Nieuw prenten boek voor brave kinderen",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"13898719X": {
+		"HomeCat": "Category:Nieuwe dieren galery voor kinderen",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"865135525": {
+		"HomeCat": "Category:Nieuwe plaatjes en versjes voor kinderen",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Poultry in art"
+	},
+	"290993164": {
+		"HomeCat": "Category:Nieuw-jaars geschenkje voor kinderen",
+		"SubjectCats": "Category:Occupations in children's books"
+	},
+	"142196576": {
+		"HomeCat": "Category:Nijghs geïllustreerd A.B. boek",
+		"SubjectCats": "Category:Alphabet books from The Netherlands"
+	},
+	"040877248": {
+		"HomeCat": "Category:Nommerkransje - een geschenk voor kinderen die gaarne willen leeren tellen",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"040915891": {
+		"HomeCat": "Category:Notenkraker-Muizenkoning - een aardig sprookje voor lieve kinderen"
+	},
+	"274443104": {
+		"HomeCat": "Category:Nuttige ambachten - met 8 gekleurde plaatjes",
+		"SubjectCats": "Category:Occupations in children's books"
+	},
+	"852002882": {
+		"HomeCat": "Category:Nuttige ontdekkingen door afbeeldingen gedagteekend"
+	},
+	"851492290": {
+		"HomeCat": "Category:Onze huisdieren",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"DescriptionCats": "Category:Books about domesticated animals"
+	},
+	"851934560": {
+		"HomeCat": "Category:Pierrots leven en bedrijf voor de jeugd",
+		"UitgeverCats": "Category:Pierrot",
+		"SubjectCats": "Category:Commedia dell'arte",
+		"DescriptionCats": "Category:Rhyming stories from The Netherlands"
+	},
+
+	"865625034": {
+		"HomeCat": "Category:Piet de Smeerpoets - zijn berouw en bekeering",
+		"AuteurCats": "Category:Struwwelpeter",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+
+	"291329934": {
+		"HomeCat": "Category:Prenteboekje naar Jan Luiken",
+		"SubjectCats": "Category:Occupations in children's books"
+	},
+
+	"851998240": {
+		"HomeCat": "Category:Prentenboek - een ijverige hand vindt werk door t gansche land",
+		"AuteurCats": "Category:Jan Schenkman",
+		"SubjectCats": "Category:Occupations in children's books"
+	},
+	"843530022": {
+		"HomeCat": "Category:Prentgeschenk voor de jeugd om het A-B al spelende te leeren",
+		"SubjectCats": "Category:Alphabet books from The Netherlands"
+	},
+	"20231703X": {
+		"HomeCat": "Category:Prentgeschenk voor kleine kinderen om de getallen al spelende te leeren",
+		"SubjectCats": "Category:Numbers in art",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"040888959": {
+		"HomeCat": "Category:Prent-historietjes voor kleine kinderen",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"851949223": {
+		"HomeCat": "Category:Prentvermaak voor kleine kinderen",
+		"SubjectCats": "Category:Countryside in art",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"864945396": {
+		"HomeCat": "Category:Prettige daagjes"
+	},
+	"202115011": {
+		"HomeCat": "Category:Prettige tijdkorting - een nieuw prentenboek voor kleine en groote kinderen",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"864933185": {
+		"HomeCat": "Category:Prins vriendelijk - een sprookje"
+	},
+	"864933215": {
+		"HomeCat": "Category:Reintje de Vos",
+		"SubjectCats": "Category:Reineke Fuchs",
+		"UitgeverCats": "Category:Animals acting as humans in art"
+	},
+	"864155859": {
+		"HomeCat": "Category:Robinson Crusoë (Dutch childeren's book, 1876)",
+		"SubjectCats": "Category:Robinson Crusoe"
+	},
+
+	"040947971": {
+		"HomeCat": "Category:Roodkapje (1868)",
+		"AuteurCats": "Category:Charles Perrault",
+		"UitgeverCats": "Category:Little Red Riding Hood"
+	},
+	"864547803": {
+		"HomeCat": "Category:Sint Nicolaas (Dutch children's book, 185X)",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AlternativeCats": "Category:Animals acting as humans in art"
+	},
+	"143791605": {
+		"HomeCat": "Category:Smakelijk eten - abc-boekje voor lieve kinderen",
+		"UitgeverCats": "Category:Rhyming stories from The Netherlands",
+		"SubjectCats": "Category:Alphabet books from The Netherlands"
+	},
+	"865134189": {
+		"HomeCat": "Category:Snakerijen van Tijl Uilenspiegel",
+		"SubjectCats": "Category:Tijl Uilenspiegel"
+	},
+	"851932681": {
+		"HomeCat": "Category:Stoute jongens en meisjes - een prentenboek voor zoete kinderen",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"863700292": {
+		"HomeCat": "Category:Sythoffs prentenboek - de boekenkast",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"852166028": {
+		"HomeCat": "Category:Taalkundig prenteboekje voor leerzame kinderen"
+	},
+	"864257422": {
+		"HomeCat": "Category:Tafereelen uit den oorlog met Atchin",
+		"SubjectCats": "Category:Aceh War",
+		"AnnotationCats": "Category:Dutch East Indies"
+	},
+	"864448554": {
+		"HomeCat": "Category:Tante Keetjes prentenboek",
+		"AuteurCats": "Category:Franz Graf von Pocci",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"851933726": {
+		"HomeCat": "Category:Tijl Uilenspiegel (Dutch children's book, 1865)",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"DescriptionCats": "Category:Tijl Uilenspiegel"
+	},
+	"037635999": {
+		"HomeCat": "Category:Tot leering - versjes met plaatjes voor lieve kinderen",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"044042310": {
+		"HomeCat": "Category:Van Alphens ABC Boekje",
+		"AuteurCats": "Category:Hieronymus van Alphen",
+		"SubjectCats": "Category:Alphabet books from The Netherlands",
+		"DescriptionCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"041459156": {
+		"HomeCat": "Category:Verlustiging voor brave jongens",
+		"SubjectCats": "Category:Boys in art"
+	},
+	"852340729": {
+		"HomeCat": "Category:Voorstellen van ambachten en bedrijven",
+		"SubjectCats": "Category:Occupations in children's books"
+	},
+	"822887819": {
+		"HomeCat": "Category:Wat er van hennep komt",
+		"SubjectCats": "Category:Hemp"
+	},
+	"205278043": {
+		"HomeCat": "Category:Wat is er op de kermis te zien - in prentverbeeldingen",
+		"SubjectCats": "Category:Funfairs in art",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands"
+	},
+	"852241542": {
+		"HomeCat": "Category:Weer wat moois voor lieve kleinen",
+		"SubjectCats": "Category:Alphabet books from The Netherlands",
+		"AnnotationCats": "Category:Rhyming stories from The Netherlands",
+		"DescriptionCats": "Category:Occupations in children's books"
+	},
+	"163067295": {
+		"HomeCat": "Category:Welk beroep kiest gij - twaalf onderscheidene ambachten voor kinderen",
+		"SubjectCats": "Category:Rhyming stories from The Netherlands",
+		"AnnotationCats": "Category:Occupations in children's books"
+	},
+	"852300743": {
+		"HomeCat": "Category:Welke kunstjes Kardoes al deed - een geschenk voor lieve kleinen",
+		"AuteurCats": "Category:Rhyming stories from The Netherlands",
+		"SubjectCats": "Category:Dogs in art"
+	}
+}
