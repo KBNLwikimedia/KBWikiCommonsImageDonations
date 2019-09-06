@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+    <srw:records>
+        <srw:record>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordSchema>info:srw/schema/1/dc-v1.1</srw:recordSchema>
+            <srw:recordData>
+                <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:mods="http://www.loc.gov/mods" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                    <shelfMark>Shelfmark 892 D 61</shelfMark>
+                    <URL_gvn>Source page at the [http://resolver.kb.nl/resolve?urn=urn:gvn:KONB12:892D61 Geheugen van Nederland / Memory of the Netherlands] website</URL_gvn>
+                    <dcx:illustration>http://resolver.kb.nl/resolve?urn=urn:gvn:KONB12:892D61&amp;size=large</dcx:illustration>
+                    <collectionID>GVN-KONB12</collectionID>
+                    <collectionName>This object is part of [https://www.kb.nl/en/resources-research-guides/kb-collections/bookbindings-and-paper-history/bookbindings the collection of bookbindings] of the [[:w:en:National_Library_of_the_Netherlands|Koninklijke Bibliotheek]], the national library of the Netherlands</collectionName>
+                    <permission>{{PD-art|PD-old-70-1923}}</permission>
+                    <Institution>Koninklijke Bibliotheek</Institution>
+                    <dc:source>{{Koninklijke Bibliotheek}}</dc:source>
+                    <dc:title>Band van rood segrijn</dc:title>
+                    <dcx:recordIdentifier>KONB12:892D61</dcx:recordIdentifier>
+                    <dc:format>Book binding</dc:format>
+                    <PlaceOfCreation>The Netherlands, Amsterdam</PlaceOfCreation>
+                    <dcterms:created>1847</dcterms:created>
+                    <binder>{{Information field|name=Binder/bindery|value=Rossum, Abraham van}}</binder>
+                    <dc:description xml:lang="nl">Inhoud: M.C. van Hall. Rutger Jan Schimmelpenninck, voornamelijk als Bataafsch afgezant ... Amsterdam, 1847.</dc:description>
+                    <dc:extent>{{Size|mm|211|128|14}}</dc:extent>
+                    <dcterms:medium xml:lang="nl">Rood segrijn, met goud bestempeld</dcterms:medium>
+                </srw_dc:dc>
+            </srw:recordData>
+            <srw:recordPosition>414</srw:recordPosition>
+        </srw:record>
+        <srw:record>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordSchema>info:srw/schema/1/dc-v1.1</srw:recordSchema>
+            <srw:recordData>
+                <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:mods="http://www.loc.gov/mods" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                    <shelfMark>Shelfmark 510 A 18-22</shelfMark>
+                    <URL_gvn>Source page at the [http://resolver.kb.nl/resolve?urn=urn:gvn:KONB12:510A18 Geheugen van Nederland / Memory of the Netherlands] website</URL_gvn>
+                    <dcx:illustration>http://resolver.kb.nl/resolve?urn=urn:gvn:KONB12:510A18&amp;size=large</dcx:illustration>
+                    <collectionID>GVN-KONB12</collectionID>
+                    <collectionName>This object is part of [https://www.kb.nl/en/resources-research-guides/kb-collections/bookbindings-and-paper-history/bookbindings the collection of bookbindings] of the [[:w:en:National_Library_of_the_Netherlands|Koninklijke Bibliotheek]], the national library of the Netherlands</collectionName>
+                    <permission>{{PD-art|PD-old-70-1923}}</permission>
+                    <Institution>Koninklijke Bibliotheek</Institution>
+                    <dc:source>{{Koninklijke Bibliotheek}}</dc:source>
+                    <dc:title>Band van rood saffiaan, met goud en zilver bestempeld</dc:title>
+                    <dcx:recordIdentifier>KONB12:510A18-22</dcx:recordIdentifier>
+                    <dc:format>Book binding</dc:format>
+                    <PlaceOfCreation>The Netherlands, Amsterdam</PlaceOfCreation>
+                    <dcterms:created>1821</dcterms:created>
+                    <dcterms:created>1824</dcterms:created>
+                    <dcterms:created>1827</dcterms:created>
+                    <dcterms:created>1840</dcterms:created>
+                    <dcterms:created>1848</dcterms:created>
+                    <binder>{{Information field|name=Binder/bindery|value=Rossum, Abraham van}}</binder>
+                    <dc:description xml:lang="nl">Inhoud: Beschrijving van Nederlandsche historie-penningen, ten vervolge op het werk van Mr. Gerard van Loon ... Eerste [-vijfde] stuk. Te Amsterdam, bij Pieper en Ipenbuur, 1821 - 1848. 5 vol Fol.</dc:description>
+                    <dcterms:medium xml:lang="nl">Rood saffiaan, met goud en zilver bestempeld</dcterms:medium>
+                </srw_dc:dc>
+            </srw:recordData>
+            <srw:recordPosition>415</srw:recordPosition>
+        </srw:record>
+        <srw:record>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordSchema>info:srw/schema/1/dc-v1.1</srw:recordSchema>
+            <srw:recordData>
+                <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:mods="http://www.loc.gov/mods" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                    <shelfMark>Shelfmark 940 C 12</shelfMark>
+                    <URL_gvn>Source page at the [http://resolver.kb.nl/resolve?urn=urn:gvn:KONB12:940C12 Geheugen van Nederland / Memory of the Netherlands] website</URL_gvn>
+                    <dcx:illustration>http://resolver.kb.nl/resolve?urn=urn:gvn:KONB12:940C12&amp;size=large</dcx:illustration>
+                    <collectionID>GVN-KONB12</collectionID>
+                    <collectionName>This object is part of [https://www.kb.nl/en/resources-research-guides/kb-collections/bookbindings-and-paper-history/bookbindings the collection of bookbindings] of the [[:w:en:National_Library_of_the_Netherlands|Koninklijke Bibliotheek]], the national library of the Netherlands</collectionName>
+                    <permission>{{PD-art|PD-old-70-1923}}</permission>
+                    <Institution>Koninklijke Bibliotheek</Institution>
+                    <dc:source>{{Koninklijke Bibliotheek}}</dc:source>
+                    <dc:title>Band van naturel kalfsleer</dc:title>
+                    <dcx:recordIdentifier>KONB12:940C12</dcx:recordIdentifier>
+                    <dc:format>Book binding</dc:format>
+                    <PlaceOfCreation>The Netherlands, Delft</PlaceOfCreation>
+                    <dcterms:created>1827-1830</dcterms:created>
+                    <binder>{{Information field|name=Binder/bindery|value=Contze, Pieter Diderick}}</binder>
+                    <dc:description xml:lang="nl">Inhoud: Charles Dupin. Forces productives et commerciales de la France. Paris, 1827.</dc:description>
+                    <dc:extent>{{Size|mm|270|197|40}}</dc:extent>
+                    <dcterms:medium xml:lang="nl">Naturel kalfsleer, blind en met goud bestempeld</dcterms:medium>
+                </srw_dc:dc>
+            </srw:recordData>
+            <srw:recordPosition>416</srw:recordPosition>
+        </srw:record>
+        <srw:record>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordSchema>info:srw/schema/1/dc-v1.1</srw:recordSchema>
+            <srw:recordData>
+                <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:mods="http://www.loc.gov/mods" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                    <shelfMark>Shelfmark 144 F 6</shelfMark>
+                    <URL_gvn>Source page at the [http://resolver.kb.nl/resolve?urn=urn:gvn:KONB12:144F6 Geheugen van Nederland / Memory of the Netherlands] website</URL_gvn>
+                    <dcx:illustration>http://resolver.kb.nl/resolve?urn=urn:gvn:KONB12:144F6&amp;size=large</dcx:illustration>
+                    <collectionID>GVN-KONB12</collectionID>
+                    <collectionName>This object is part of [https://www.kb.nl/en/resources-research-guides/kb-collections/bookbindings-and-paper-history/bookbindings the collection of bookbindings] of the [[:w:en:National_Library_of_the_Netherlands|Koninklijke Bibliotheek]], the national library of the Netherlands</collectionName>
+                    <permission>{{PD-art|PD-old-70-1923}}</permission>
+                    <Institution>Koninklijke Bibliotheek</Institution>
+                    <dc:source>{{Koninklijke Bibliotheek}}</dc:source>
+                    <dc:title>Band van bruin kalfsleer</dc:title>
+                    <dcx:recordIdentifier>KONB12:144F6</dcx:recordIdentifier>
+                    <dc:format>Book binding</dc:format>
+                    <PlaceOfCreation>France, Paris?</PlaceOfCreation>
+                    <dcterms:created>1642-1643?</dcterms:created>
+                    <binder>{{Information field|name=Binder/bindery|value=Unknown}}</binder>
+                    <dc:description xml:lang="nl">Inhoud: Dionysius Petavius. Opera poetica. Ultima editio ... Parisiis, Apud Sebastianvm Cramoisy, 1642. 8vo + Dionysius Petavius. Graeca varij generis carmina, cum Latine interpretatione ... Parisiis, Apud Sebastianvm Cramoisy, 1641. 8vo.</dc:description>
+                    <dc:extent>{{Size|mm|173|111|40}}</dc:extent>
+                    <dcterms:medium xml:lang="nl">Bruin kalfsleer, met goud bestempeld</dcterms:medium>
+                </srw_dc:dc>
+            </srw:recordData>
+            <srw:recordPosition>158</srw:recordPosition>
+        </srw:record>
+        <srw:record>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordSchema>info:srw/schema/1/dc-v1.1</srw:recordSchema>
+            <srw:recordData>
+                <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:mods="http://www.loc.gov/mods" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                    <shelfMark>Shelfmark 143 C 3</shelfMark>
+                    <URL_gvn>Source page at the [http://resolver.kb.nl/resolve?urn=urn:gvn:KONB12:143C3 Geheugen van Nederland / Memory of the Netherlands] website</URL_gvn>
+                    <dcx:illustration>http://resolver.kb.nl/resolve?urn=urn:gvn:KONB12:143C3&amp;size=large</dcx:illustration>
+                    <collectionID>GVN-KONB12</collectionID>
+                    <collectionName>This object is part of [https://www.kb.nl/en/resources-research-guides/kb-collections/bookbindings-and-paper-history/bookbindings the collection of bookbindings] of the [[:w:en:National_Library_of_the_Netherlands|Koninklijke Bibliotheek]], the national library of the Netherlands</collectionName>
+                    <permission>{{PD-art|PD-old-70-1923}}</permission>
+                    <Institution>Koninklijke Bibliotheek</Institution>
+                    <dc:source>{{Koninklijke Bibliotheek}}</dc:source>
+                    <dc:title>Band van donkerbruin kalfsleer</dc:title>
+                    <dcx:recordIdentifier>KONB12:143C3</dcx:recordIdentifier>
+                    <dc:format>Book binding</dc:format>
+                    <PlaceOfCreation>The Netherlands, Weesp(?)</PlaceOfCreation>
+                    <dcterms:created>1647</dcterms:created>
+                    <dc:description xml:lang="nl">Inhoud: E. Grim. Pauselicke Heiligheit ... dat is Catholyck ende authentyck vertoog dat Johannes, gemeenlick Paus Jutte genoemt, een vrouwe geweest is... Tot Wesel, gedruckt by Martin Hess, 1635. 4to.</dc:description>
+                    <binder>{{Information field|name=Binder/bindery|value=Unknown}}</binder>
+                    <dc:extent>{{Size|mm|215|153}}</dc:extent>
+                    <dcterms:medium xml:lang="nl">Donkerbruin kalfsleer, blind bestempeld; houten platten; twee messing/ leren sloten, hoekbeslag, rugstrips van (verloren) beschermrug en een kettingklamp met ketting</dcterms:medium>
+                </srw_dc:dc>
+            </srw:recordData>
+            <srw:recordPosition>159</srw:recordPosition>
+        </srw:record>
+    </srw:records>
+</srw:searchRetrieveResponse>

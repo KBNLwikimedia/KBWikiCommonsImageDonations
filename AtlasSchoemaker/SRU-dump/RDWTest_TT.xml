@@ -1,0 +1,2724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:memorix="http://www.pictura-dp.nl/memorix/3.0" xmlns:dcterms="http://purl.org/dc/terms/"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ese="http://www.europeana.eu/schemas/ese/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://www.gahetna.nl/beeldbank-api/opensearch/?q=2.24.11&amp;count=100&amp;startIndex=1" rel="self" type="application/rss+xml" />
+    <atom:link rel="search" href="http://www.gahetna.nl/beeldbank-api/opensearch/description-document" type="application/opensearchdescription+xml" title="Content Search" />
+    <title>Beeldbank Nationaal Archief</title>
+    <description>OpenSearch API voor de Beeldbank van het Nationaal Archief</description>
+    <opensearch:Query role="request" searchTerms="2.24.11" count="100" startIndex="1" />
+    <opensearch:totalResults>695</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+    <item>
+    	<title>Schutsluis Willem I</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af09bac0-d0b4-102d-bcf8-003048976d84</link>
+      <description>Schutsluis Willem I</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/b1db140d-18c5-93fe-0660-1571a810ee16.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:44 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af09bac0-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af09bac0-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1867-03-16T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      
+      <dc:creator>Pieter Oosterhuis</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>schutsluizen</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:identifier>174</dc:identifier>
+       
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/b1db140d-18c5-93fe-0660-1571a810ee16.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af09bac0-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 174{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Balmoral, stoomraderboot</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af0b048e-d0b4-102d-bcf8-003048976d84</link>
+      <description>Balmoral, stoomraderboot</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/54fada5a-a99a-45bb-edbd-a83b66b7fb8e.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:47 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af0b048e-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af0b048e-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>0002-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      
+      <dc:creator>Huggitt</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>raderstoomboten</dc:subject>
+      <dc:subject>scheepvaart</dc:subject>
+      <dc:identifier>580</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/54fada5a-a99a-45bb-edbd-a83b66b7fb8e.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af0b048e-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 580{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Heistellingen</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af0b2072-d0b4-102d-bcf8-003048976d84</link>
+      <description>Heistellingen</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/1546a7fc-4699-c52e-0bf3-d96969daefdd.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:48 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af0b2072-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af0b2072-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>0002-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      
+      <dc:creator>Oosterhuis, P. (Amsterdam)</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>heien</dc:subject>
+      <dc:subject>waterstaatswerken</dc:subject>
+      <dc:identifier>595</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/1546a7fc-4699-c52e-0bf3-d96969daefdd.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af0b2072-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 595{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Constructie van rijshoutmatten</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af0b2eaa-d0b4-102d-bcf8-003048976d84</link>
+      <description>Constructie van rijshoutmatten</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/6b30e876-81c9-33d3-18d2-0e176bf49bed.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:48 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af0b2eaa-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af0b2eaa-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>0002-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      
+      <dc:creator>Oosterhuis, P. (Amsterdam)</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>waterstaatswerken</dc:subject>
+      <dc:identifier>604</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/6b30e876-81c9-33d3-18d2-0e176bf49bed.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af0b2eaa-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 604{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Spoorwegbrug bij Zaandam</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af0bb226-d0b4-102d-bcf8-003048976d84</link>
+      <description>Spoorwegbrug bij Zaandam</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/cc82e9d3-e2fc-7b1a-f249-353bbac24630.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:52 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af0bb226-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af0bb226-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>0002-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Noordzeekanaal</dc:isPartOf>
+      <dc:coverage>Noord-Holland</dc:coverage>
+      <dc:coverage>Noord-Holland</dc:coverage>
+      <dc:coverage>Zaanstad</dc:coverage>
+      <dc:coverage>Zaanstad</dc:coverage>
+      <dc:creator>Buffa &amp; Zonen (uitgever), Frans</dc:creator>
+      <dc:type>Drukwerk</dc:type>
+      <dc:identifier>813</dc:identifier>
+      <dc:subject>baggermolens</dc:subject>
+      <dc:subject>kanalen</dc:subject>
+      <dc:subject>pijlers</dc:subject>
+      <dc:subject>spoorwegbruggen</dc:subject>
+      <dc:subject>steigerwerk</dc:subject>
+      <dc:subject>vletten</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/cc82e9d3-e2fc-7b1a-f249-353bbac24630.jpg</ese:isShownBy>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/a05fec74-586f-3b11-a70e-1f94f7b34056.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af0bb226-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="ts_commentaar">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 813{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Schutsluis Willem I</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/11bc4d5e-1707-d4cb-8041-de0eb4a2c127</link>
+      <description>Schutsluis Willem I</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/a5a52a8e-ebf3-1960-b460-30a5377f47e5.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 03:37:03 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/11bc4d5e-1707-d4cb-8041-de0eb4a2c127</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af09b78c-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1865-09-19T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      
+      <dc:creator>Pieter Oosterhuis</dc:creator>
+      <dc:coverage>Amsterdam</dc:coverage>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>schutsluizen</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:identifier>173</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/a5a52a8e-ebf3-1960-b460-30a5377f47e5.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/11bc4d5e-1707-d4cb-8041-de0eb4a2c127</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 173{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Aansluiting duinglooiing met strandhoofd van gewapend beton</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/205c942c-de04-bc78-cf2a-539a3c9ca10c</link>
+      <description>Aansluiting duinglooiing met strandhoofd van gewapend beton</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/c88fe4a8-8c6e-17f5-facd-f1ea85ab1a7f.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 03:44:13 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/205c942c-de04-bc78-cf2a-539a3c9ca10c</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af09306e-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>0002-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen in gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>arbeiders</dc:subject>
+      <dc:subject>bouw</dc:subject>
+      <dc:subject>duinen</dc:subject>
+      <dc:subject>strandhoofden</dc:subject>
+      <dc:subject>vuurtorens</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:identifier>6</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/c88fe4a8-8c6e-17f5-facd-f1ea85ab1a7f.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/205c942c-de04-bc78-cf2a-539a3c9ca10c</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 6{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Sluisput van de zuidwestzijde gezien</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/976b0ad6-3395-2c92-7133-e8a9f3708c2c</link>
+      <description>Sluisput van de zuidwestzijde gezien</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/2718dc9d-c907-44a8-4233-f4a3787bfe72.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 04:43:55 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/976b0ad6-3395-2c92-7133-e8a9f3708c2c</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af0a0782-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1908-09-22T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Sluis te IJmuiden</dc:isPartOf>
+      <dc:creator>Aa, C. van der</dc:creator>
+      <dc:coverage>IJmuiden</dc:coverage>
+      <dc:coverage>IJmuiden</dc:coverage>
+      <dc:coverage>Noord-Holland</dc:coverage>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>sluisputten</dc:subject>
+      <dc:subject>sluizen</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:identifier>297</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/2718dc9d-c907-44a8-4233-f4a3787bfe72.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/976b0ad6-3395-2c92-7133-e8a9f3708c2c</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 297{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Gezicht langs het zeehoofd vanaf de kop</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af092df8-d0b4-102d-bcf8-003048976d84</link>
+      <description>Gezicht langs het zeehoofd vanaf de kop</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/39299962-9129-695b-7a16-2174d6437c79.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:41 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af092df8-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af092df8-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1904-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen in gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>bouw</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:identifier>2</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/39299962-9129-695b-7a16-2174d6437c79.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af092df8-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 2{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Zeehoofd van gewapend beton. Het maken van een lijst</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af092ed4-d0b4-102d-bcf8-003048976d84</link>
+      <description>Zeehoofd van gewapend beton. Het maken van een lijst</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/471688fe-276f-7d07-8758-c6feecc5e6ba.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:41 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af092ed4-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af092ed4-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1904-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen in gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>arbeiders</dc:subject>
+      <dc:subject>bouw</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:identifier>3</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/471688fe-276f-7d07-8758-c6feecc5e6ba.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af092ed4-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 3{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Duinglooiing van gewapend beton. Een gedeelte van de glooiing geheel afgewerkt</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af09306e-d0b4-102d-bcf8-003048976d84</link>
+      <description>Duinglooiing van gewapend beton. Een gedeelte van de glooiing geheel afgewerkt</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/7a7b7405-45e0-8330-a612-b0df986133bb.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:41 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af09306e-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af09306e-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1904-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen in gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>bouw</dc:subject>
+      <dc:subject>duinen</dc:subject>
+      <dc:subject>vuurtorens</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:identifier>4</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/7a7b7405-45e0-8330-a612-b0df986133bb.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af09306e-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 4{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>De hellende lijst ligt gereed in de houten mal</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af093532-d0b4-102d-bcf8-003048976d84</link>
+      <description>De hellende lijst ligt gereed in de houten mal</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/a36f5894-2515-5765-cda7-34832c083719.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:41 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af093532-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af093532-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1904-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen in gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>bouw</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:identifier>7</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/a36f5894-2515-5765-cda7-34832c083719.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af093532-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 7{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Het aanstampen van de gewapend betonplaten</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af093988-d0b4-102d-bcf8-003048976d84</link>
+      <description>Het aanstampen van de gewapend betonplaten</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/d0464d10-c48c-5f53-857e-27491c9be4bb.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:41 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af093988-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af093988-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1904-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen in gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>arbeiders</dc:subject>
+      <dc:subject>betonplaten</dc:subject>
+      <dc:subject>bouw</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:identifier>10</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/d0464d10-c48c-5f53-857e-27491c9be4bb.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af093988-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 10{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Sluizencomplex in gebruik</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af093e56-d0b4-102d-bcf8-003048976d84</link>
+      <description>Sluizencomplex in gebruik</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/2884c152-a098-bbaa-0182-2addd2464508.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:42 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af093e56-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af093e56-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>0002-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      
+      <dc:creator>Chrispijn, I.|Aa, C. van der</dc:creator>
+      <dc:creator>Aa, C. van der (Alkmaar &amp; Den Helder)</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>sluizen</dc:subject>
+      <dc:identifier>43</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/2884c152-a098-bbaa-0182-2addd2464508.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af093e56-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 43{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Schulpbrug (Schollenbrug) onder de gemeente Watergraafsmeer</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af093fe6-d0b4-102d-bcf8-003048976d84</link>
+      <description>Schulpbrug (Schollenbrug) onder de gemeente Watergraafsmeer</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/9fb94c74-6cc7-8071-92b1-aa514d2dede2.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:42 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af093fe6-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af093fe6-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>0002-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      
+      <dc:creator>Hungelmann, H.</dc:creator>
+      <dc:coverage>Amsterdam</dc:coverage>
+      <dc:coverage>Amsterdam</dc:coverage>
+      <dc:coverage>Noord-Holland</dc:coverage>
+      <dc:coverage>Noord-Holland</dc:coverage>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>schulpbruggen</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:identifier>45</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/9fb94c74-6cc7-8071-92b1-aa514d2dede2.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af093fe6-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 45{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Dijkverhoging van gewapend beton. (Een muurmoot in de houten mal)</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af094e5a-d0b4-102d-bcf8-003048976d84</link>
+      <description>Dijkverhoging van gewapend beton. (Een muurmoot in de houten mal)</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/a2ce9ab3-19b0-abf0-27c3-ee339490102e.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:42 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af094e5a-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af094e5a-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1904-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen in gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>bouw</dc:subject>
+      <dc:subject>dijken</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:identifier>12</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/a2ce9ab3-19b0-abf0-27c3-ee339490102e.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af094e5a-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 12{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Dijkverhoging van gewapend beton</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af094fe0-d0b4-102d-bcf8-003048976d84</link>
+      <description>Dijkverhoging van gewapend beton</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/3064b0b5-f2d6-4432-ca58-fab35214cf16.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:42 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af094fe0-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af094fe0-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1904-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen in gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>bouw</dc:subject>
+      <dc:subject>dijken</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:identifier>14</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/3064b0b5-f2d6-4432-ca58-fab35214cf16.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af094fe0-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 14{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Dijkverhoging van gewapend beton</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af095170-d0b4-102d-bcf8-003048976d84</link>
+      <description>Dijkverhoging van gewapend beton</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/16c52b26-db49-b92d-df70-6b92dfbd477d.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:42 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af095170-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af095170-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1904-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen in gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>bouw</dc:subject>
+      <dc:subject>dijken</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:identifier>15</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/16c52b26-db49-b92d-df70-6b92dfbd477d.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af095170-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 15{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Het maken en daarop bekrammen van het zandtalud</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af09524c-d0b4-102d-bcf8-003048976d84</link>
+      <description>Het maken en daarop bekrammen van het zandtalud</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/19e6f32e-41d0-4416-65f6-8fba32554a94.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:42 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af09524c-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af09524c-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1904-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen in gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>bouw</dc:subject>
+      <dc:subject>duinen</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:identifier>16</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/19e6f32e-41d0-4416-65f6-8fba32554a94.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af09524c-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 16{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Zeehoofd van gewapend beton in uitvoering</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af0953dc-d0b4-102d-bcf8-003048976d84</link>
+      <description>Zeehoofd van gewapend beton in uitvoering</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/fe161936-f1e6-7554-9651-b0e8c85bd618.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:42 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af0953dc-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af0953dc-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1904-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen in gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>bouw</dc:subject>
+      <dc:subject>zeehoofden</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:identifier>17</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/fe161936-f1e6-7554-9651-b0e8c85bd618.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af0953dc-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 17{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Zeehoofd van gewapend beton. Gezicht op het worteleind</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af0954a4-d0b4-102d-bcf8-003048976d84</link>
+      <description>Zeehoofd van gewapend beton. Gezicht op het worteleind</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/9914d9c0-4eed-2b98-3ca9-572101ccb842.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:42 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af0954a4-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af0954a4-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1904-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen in gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>bouw</dc:subject>
+      <dc:subject>zeehoofden</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:identifier>18</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/9914d9c0-4eed-2b98-3ca9-572101ccb842.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af0954a4-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 18{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Het zeehoofd gezien bij een zeer laag tij</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af0957ba-d0b4-102d-bcf8-003048976d84</link>
+      <description>Het zeehoofd gezien bij een zeer laag tij</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/c98b1dc4-0961-0f8a-bef9-d92c4c13140c.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:42 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af0957ba-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af0957ba-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1904-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen in gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:subject>zeehoofden</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:identifier>20</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/c98b1dc4-0961-0f8a-bef9-d92c4c13140c.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af0957ba-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 20{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Dijkverhoging van gewapend beton in aanleg</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af095882-d0b4-102d-bcf8-003048976d84</link>
+      <description>Dijkverhoging van gewapend beton in aanleg</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/049b69fe-9249-a9cf-afa7-b75751d2147d.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:42 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af095882-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af095882-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1904-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen in gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>dijkverhogingen</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:identifier>21</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/049b69fe-9249-a9cf-afa7-b75751d2147d.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af095882-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 21{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Dijkverhogingen van gewapend beton (het aanstampen van een muurmoot)</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af095a1c-d0b4-102d-bcf8-003048976d84</link>
+      <description>Dijkverhogingen van gewapend beton (het aanstampen van een muurmoot)</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/8a4c5003-658e-6a3a-22b4-32b343c44ac4.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:42 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af095a1c-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af095a1c-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1904-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen in gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>muurmoten</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:identifier>22</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/8a4c5003-658e-6a3a-22b4-32b343c44ac4.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af095a1c-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 22{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Het monteren van een betonzinkstuk</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af095bb6-d0b4-102d-bcf8-003048976d84</link>
+      <description>Het monteren van een betonzinkstuk</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/000a3da4-5b5b-c837-ce76-88aab75e583b.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:42 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af095bb6-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af095bb6-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1904-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen van gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>betonzinkstukken</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:subject>zinkstukken</dc:subject>
+      <dc:identifier>24</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/000a3da4-5b5b-c837-ce76-88aab75e583b.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af095bb6-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 24{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Het betonzinkstuk heeft juist de zeebodem bereikt</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af095d3c-d0b4-102d-bcf8-003048976d84</link>
+      <description>Het betonzinkstuk heeft juist de zeebodem bereikt</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/6c00625e-6d1c-3a0c-74c9-430e76159c3d.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:42 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af095d3c-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af095d3c-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1904-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen van gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>betonzinkstukken</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:subject>zinkstukken</dc:subject>
+      <dc:identifier>25</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/6c00625e-6d1c-3a0c-74c9-430e76159c3d.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af095d3c-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 25{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Gedeeltelijk gezicht op de gemonteerde drijver</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af095f94-d0b4-102d-bcf8-003048976d84</link>
+      <description>Gedeeltelijk gezicht op de gemonteerde drijver</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/0a03c36f-588a-8f1d-f00d-a4a37a65cf39.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:42 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af095f94-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af095f94-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1904-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen van gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>drijvers</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:identifier>27</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/0a03c36f-588a-8f1d-f00d-a4a37a65cf39.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af095f94-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 27{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>De montageplaats bedekt met een mat van rijswerk</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af0962be-d0b4-102d-bcf8-003048976d84</link>
+      <description>De montageplaats bedekt met een mat van rijswerk</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/de06d4da-aec0-0213-94d6-d8b21d338369.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:42 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af0962be-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af0962be-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1904-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zeeweringen van gewapend beton</dc:isPartOf>
+      <dc:creator>[onbekend]</dc:creator>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>montageplaatsen</dc:subject>
+      <dc:subject>rijswerken</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:subject>zeeweringen</dc:subject>
+      <dc:identifier>30</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/de06d4da-aec0-0213-94d6-d8b21d338369.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af0962be-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 30{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Dieversluis na gereedkoming, van het bovenpand gezien</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af097d94-d0b4-102d-bcf8-003048976d84</link>
+      <description>Dieversluis na gereedkoming, van het bovenpand gezien</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/64683ffd-b141-9eaf-597e-3d20bdbbb5c2.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:43 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af097d94-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af097d94-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1880-06-23T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Drentsche Hoofdvaart</dc:isPartOf>
+      <dc:creator>Kolkow, Friedrich Julius von (Groningen)</dc:creator>
+      <dc:coverage>Diever</dc:coverage>
+      <dc:coverage>Diever</dc:coverage>
+      <dc:coverage>Drenthe</dc:coverage>
+      <dc:coverage>Drenthe</dc:coverage>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>kanalen</dc:subject>
+      <dc:subject>sluizen</dc:subject>
+      <dc:identifier>98</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/64683ffd-b141-9eaf-597e-3d20bdbbb5c2.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af097d94-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 98{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Bouw van de Dieversluis, van het bovenpand gezien</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af098514-d0b4-102d-bcf8-003048976d84</link>
+      <description>Bouw van de Dieversluis, van het bovenpand gezien</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/087c6401-2acd-ba4a-17b0-f7593d406341.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:43 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af098514-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af098514-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1879-07-25T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Drentsche Hoofdvaart</dc:isPartOf>
+      <dc:creator>Kolkow, Friedrich Julius von (Groningen)</dc:creator>
+      <dc:coverage>Diever</dc:coverage>
+      <dc:coverage>Diever</dc:coverage>
+      <dc:coverage>Drenthe</dc:coverage>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>sluizen</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:identifier>101</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/087c6401-2acd-ba4a-17b0-f7593d406341.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af098514-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 101{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Dieversluis van het benedenpand gezien</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af09887a-d0b4-102d-bcf8-003048976d84</link>
+      <description>Dieversluis van het benedenpand gezien</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/c16faa14-795f-23d6-5b28-d530e9f25a51.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:43 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af09887a-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af09887a-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1880-06-23T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Drentsche Hoofdvaart</dc:isPartOf>
+      <dc:creator>Kolkow, Friedrich Julius von (Groningen)</dc:creator>
+      <dc:coverage>Diever</dc:coverage>
+      <dc:coverage>Diever</dc:coverage>
+      <dc:coverage>Drenthe</dc:coverage>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>sluizen</dc:subject>
+      <dc:subject>sluizenbouw</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:identifier>104</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/c16faa14-795f-23d6-5b28-d530e9f25a51.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af09887a-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 104{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Waterstand 0,60 M beneden volzee</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af099518-d0b4-102d-bcf8-003048976d84</link>
+      <description>Waterstand 0,60 M beneden volzee</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/9140a36d-e992-d0dc-5abc-d5c014b22cca.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:43 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af099518-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af099518-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1872-06-05T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Havenwerken te Harlingen</dc:isPartOf>
+      <dc:creator>Pieter Oosterhuis</dc:creator>
+      <dc:coverage>Friesland</dc:coverage>
+      <dc:coverage>Friesland</dc:coverage>
+      <dc:coverage>Harlingen</dc:coverage>
+      <dc:coverage>Harlingen</dc:coverage>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>havenhoofden</dc:subject>
+      <dc:subject>havenwerken</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:identifier>136</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/9140a36d-e992-d0dc-5abc-d5c014b22cca.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af099518-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 136{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Zuiderhavendam</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af099f36-d0b4-102d-bcf8-003048976d84</link>
+      <description>Zuiderhavendam</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/959233cd-83b7-f197-8944-490a62de7720.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:43 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af099f36-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af099f36-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1911-10-19T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Havenverbetering Harlingen</dc:isPartOf>
+      <dc:creator>Gnodde, A.</dc:creator>
+      <dc:coverage>Friesland</dc:coverage>
+      <dc:coverage>Friesland</dc:coverage>
+      <dc:coverage>Harlingen</dc:coverage>
+      <dc:coverage>Harlingen</dc:coverage>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>havendammen</dc:subject>
+      <dc:subject>havenverbeteringen</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:identifier>149</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/959233cd-83b7-f197-8944-490a62de7720.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af099f36-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 149{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Zee-einde van de Zuiderhavendam</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af099ff4-d0b4-102d-bcf8-003048976d84</link>
+      <description>Zee-einde van de Zuiderhavendam</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/2dce8b52-8dda-eec4-e965-1c1f61b75a5c.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:43 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af099ff4-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af099ff4-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1912-06-19T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Havenverbetering Harlingen</dc:isPartOf>
+      <dc:creator>Gnodde, A.</dc:creator>
+      <dc:coverage>Friesland</dc:coverage>
+      <dc:coverage>Friesland</dc:coverage>
+      <dc:coverage>Harlingen</dc:coverage>
+      <dc:coverage>Harlingen</dc:coverage>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>havendammen</dc:subject>
+      <dc:subject>havenverbeteringen</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:identifier>150</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/2dce8b52-8dda-eec4-e965-1c1f61b75a5c.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af099ff4-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 150{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Nieuwe havendammen gezien vanaf de oude Noorderdam</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af09a0b2-d0b4-102d-bcf8-003048976d84</link>
+      <description>Nieuwe havendammen gezien vanaf de oude Noorderdam</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/8158e1bb-bd61-b37b-fc14-f72c5f57ffd4.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:43 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af09a0b2-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af09a0b2-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1912-05-22T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Havenverbetering Harlingen</dc:isPartOf>
+      <dc:creator>Gnodde, A.</dc:creator>
+      <dc:coverage>Friesland</dc:coverage>
+      <dc:coverage>Friesland</dc:coverage>
+      <dc:coverage>Harlingen</dc:coverage>
+      <dc:coverage>Harlingen</dc:coverage>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>havendammen</dc:subject>
+      <dc:subject>havenverbeteringen</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:identifier>151</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/8158e1bb-bd61-b37b-fc14-f72c5f57ffd4.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af09a0b2-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 151{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Noorderhavendam</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af09a170-d0b4-102d-bcf8-003048976d84</link>
+      <description>Noorderhavendam</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/3f711a57-65ab-5cba-b621-7421b6c5619f.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:43 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af09a170-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af09a170-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1912-09-17T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Havenverbetering Harlingen</dc:isPartOf>
+      <dc:creator>Gnodde, A.</dc:creator>
+      <dc:coverage>Friesland</dc:coverage>
+      <dc:coverage>Friesland</dc:coverage>
+      <dc:coverage>Harlingen</dc:coverage>
+      <dc:coverage>Harlingen</dc:coverage>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>havendammen</dc:subject>
+      <dc:subject>havenverbeteringen</dc:subject>
+      <dc:identifier>152</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/3f711a57-65ab-5cba-b621-7421b6c5619f.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af09a170-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 152{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Nieuwe havendammen gezien vanaf de Noorderdam</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af09a22e-d0b4-102d-bcf8-003048976d84</link>
+      <description>Nieuwe havendammen gezien vanaf de Noorderdam</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/d5761834-e4da-5e8d-88ea-90cdc1c4c888.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:43 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af09a22e-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af09a22e-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1912-05-22T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Havenverbetering Harlingen</dc:isPartOf>
+      <dc:creator>Gnodde, A.</dc:creator>
+      <dc:coverage>Friesland</dc:coverage>
+      <dc:coverage>Friesland</dc:coverage>
+      <dc:coverage>Harlingen</dc:coverage>
+      <dc:coverage>Harlingen</dc:coverage>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>havendammen</dc:subject>
+      <dc:subject>havenverbeteringen</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:identifier>153</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/d5761834-e4da-5e8d-88ea-90cdc1c4c888.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af09a22e-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 153{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Verbetering van de Zwolschen waterweg</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af09a90e-d0b4-102d-bcf8-003048976d84</link>
+      <description>Verbetering van de Zwolschen waterweg</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/fb5df901-8af9-7c74-f61a-fef7959b04d9.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:44 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af09a90e-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af09a90e-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1965-01-01T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Werken in Gelderland en Overijssel</dc:isPartOf>
+      <dc:creator>Oosterhuis, P. (Amsterdam)</dc:creator>
+      <dc:coverage>Overijssel</dc:coverage>
+      <dc:coverage>Overijssel</dc:coverage>
+      <dc:coverage>Zwolle</dc:coverage>
+      <dc:coverage>Zwolle</dc:coverage>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>verbeteringen</dc:subject>
+      <dc:subject>waterwegen</dc:subject>
+      <dc:identifier>113</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/fb5df901-8af9-7c74-f61a-fef7959b04d9.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af09a90e-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 113{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Nieuwe schutsluis te Zwartsluis 1877-1878</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af09b23c-d0b4-102d-bcf8-003048976d84</link>
+      <description>Nieuwe schutsluis te Zwartsluis 1877-1878</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/218a172d-84cc-cf64-5a69-775367cb7174.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:44 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af09b23c-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af09b23c-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>0002-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Werken in Gelderland en Overijssel</dc:isPartOf>
+      <dc:creator>Deutmann, H.</dc:creator>
+      <dc:coverage>Overijssel</dc:coverage>
+      <dc:coverage>Overijssel</dc:coverage>
+      <dc:coverage>Zwartsluis</dc:coverage>
+      <dc:coverage>Zwartsluis</dc:coverage>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>schutsluizen</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:identifier>117</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/218a172d-84cc-cf64-5a69-775367cb7174.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af09b23c-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 117{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Keersluis te Zwolle 1878</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af09b3cc-d0b4-102d-bcf8-003048976d84</link>
+      <description>Keersluis te Zwolle 1878</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/e3943067-4b2f-5c0c-0673-26705ccbc1b3.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:44 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af09b3cc-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af09b3cc-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1877-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Werken in Gelderland en Overijssel</dc:isPartOf>
+      <dc:creator>Deutmann, H. (Zwolle)</dc:creator>
+      <dc:coverage>Overijssel</dc:coverage>
+      <dc:coverage>Overijssel</dc:coverage>
+      <dc:coverage>Zwolle</dc:coverage>
+      <dc:coverage>Zwolle</dc:coverage>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>keersluizen</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:identifier>118</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/e3943067-4b2f-5c0c-0673-26705ccbc1b3.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af09b3cc-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 118{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Keersluis te Zwolle 1878</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af09b548-d0b4-102d-bcf8-003048976d84</link>
+      <description>Keersluis te Zwolle 1878</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/47f9e704-d194-f453-8b80-4e057c08ea41.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:44 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af09b548-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af09b548-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1877-11-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Werken in Gelderland en Overijssel</dc:isPartOf>
+      <dc:creator>Deutmann, H. (Zwolle)</dc:creator>
+      <dc:coverage>Overijssel</dc:coverage>
+      <dc:coverage>Overijssel</dc:coverage>
+      <dc:coverage>Zwolle</dc:coverage>
+      <dc:coverage>Zwolle</dc:coverage>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>keersluizen</dc:subject>
+      <dc:subject>waterbouw</dc:subject>
+      <dc:identifier>119</dc:identifier>
+      
+       
+       
+       
+       
+       
+       
+       
+       
+      <ese:isShownBy>http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/47f9e704-d194-f453-8b80-4e057c08ea41.jpg</ese:isShownBy>
+      <ese:type>IMAGE</ese:type>
+      <ese:provider>{{Nationaal Archief}}</ese:provider>
+      <ese:isShownAt>http://hdl.handle.net/10648/af09b548-d0b4-102d-bcf8-003048976d84</ese:isShownAt>
+      <memorix:MEMORIX>
+        <field name="auteursrechten_auteursrechthebbende">
+          <value>Archiefinventaris 2.24.11, inventarisnummer 119{{PD-Old-100}}</value>
+        </field>
+        <rights>
+          <right name="grote thumbnail"></right>
+          <right name="tentoonstelling in huis"></right>
+          <right name="Public Domain"></right>
+          <right name="gebruik eigen website"></right>
+          <right name="CC BY"></right>
+          <right name="print particulier"></right>
+          <right name="onbestelbaar"></right>
+          <right name="wetenschappelijk onderzoek"></right>
+          <right name="download particulier"></right>
+          <right name="webwinkel"></right>
+          <right name="bestelbaar"></right>
+          <right name="Ed it"></right>
+          <right name="croptool"></right>
+          <right name="offline educatie"></right>
+          <right name="download commercieel"></right>
+          <right name="print commercieel"></right>
+          <right name="CC BY SA"></right>
+          <right name="gebruik eigen publicaties"></right>
+          <right name="webdisplay"></right>
+          <right name="offline educatie"></right>
+          <right name="online educatie"></right>
+          <right name="tentoonstelling elders"></right>
+          <right name="Europeana"></right>
+          <right name="commercieel"></right>
+        </rights>
+      </memorix:MEMORIX>
+    </item>
+    <item>
+      <title>Sluis nr. 1 te Meijel</title>
+      <link>Source page at Nationaal Archief http://hdl.handle.net/10648/af09b610-d0b4-102d-bcf8-003048976d84</link>
+      <description>Sluis nr. 1 te Meijel</description>
+      <enclosure url="http://afbeeldingen.gahetna.nl/naa/thumb/3000x3000/eb247115-212a-5573-feab-d380d816663e.jpg" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2015 07:05:44 +0200</pubDate>
+      <guid isPermaLink="true">http://hdl.handle.net/10648/af09b610-d0b4-102d-bcf8-003048976d84</guid>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/collectie/archief/ead/index/eadid/2.24.11">2.24.11</dc:isPartOf>
+      <dc:identifier>hdl://10648/af09b610-d0b4-102d-bcf8-003048976d84</dc:identifier>
+      <dc:date>1884-09-30T00:00:00Z</dc:date>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Serie_Collectie/2f7593fe-b9a1-11df-ba8e-03c82bd9ba46">Fotocollectie Rijkswaterstaat</dc:isPartOf>
+      <dc:type>Foto</dc:type>
+      <dc:isPartOf rdf:about="http://www.gahetna.nl/isPartOf/Reportage_Serienaam">Zijkanaal naar de Maas</dc:isPartOf>
+      <dc:creator>fotograaf onbekend</dc:creator>
+      <dc:coverage>Limburg</dc:coverage>
+      <dc:coverage>Limburg</dc:coverage>
+      <dc:coverage>Meijel</dc:coverage>
+      <dc:coverage>Meijel</dc:coverage>
+      <dc:type>Foto, zwart-wit</dc:type>
+      <dc:subject>sluizen</dc:subject>
+      <dc:subject>waterbouw</dc:subj

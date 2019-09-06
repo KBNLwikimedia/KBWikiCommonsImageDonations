@@ -1,0 +1,83 @@
+Website GvN
+- http://www.geheugenvannederland.nl/?/nl/zoekresultaten/pagina/1/Atlas+Schoemaker/%28isPartOf%20any%20%27SCHOE01%27%29
+
+OAI 
+- http://services.kb.nl/mdo/oai?verb=ListRecords&set=GVNRC&metadataPrefix=dcx&from=2012-08-15T11:20:38.681Z&until=2012-08-15T11:20:57.647Z
+
+
+
+SRU is makkelijker!
+Records 1-1000
+http://jsru.kb.nl/sru?version=1.2&operation=searchRetrieve&x-collection=GVN&stylesheet=&recordSchema=dcx&startRecord=1&maximumRecords=1000&query=isPartOf%3DSCHOE01
+
+1001-2000
+http://jsru.kb.nl/sru?version=1.2&operation=searchRetrieve&x-collection=GVN&stylesheet=&recordSchema=dcx&startRecord=1001&maximumRecords=1000&query=isPartOf%3DSCHOE01
+
+2000-2579
+http://jsru.kb.nl/sru?version=1.2&operation=searchRetrieve&x-collection=GVN&stylesheet=&recordSchema=dcx&startRecord=2001&maximumRecords=700&query=isPartOf%3DSCHOE01
+
+
+
+-----------------------------
+
+ATLAS Schoemaker: GWToolset:Productieomgeving
+Stap 1: 
+-	Template Artwork kiezen
+-	Mapping: https://commons.wikimedia.org/wiki/GWToolset:Metadata_Mappings/OlafJanssen/KB_AtlasSchoemaker2.json
+-	De beste (test)file tot nu toe M:\WikipediaSamenwerking\Beelddonaties\AtlasSchoemaker\OAI-dump\ AtlasSchoemaker-OAI-dump_30072014_records1-50_forGWToolset.xml
+
+In stap 2 de volgende vinkjes aanzetten: 
+-	Wrap creator in the creator template
+-	Wrap institution in the institution template
+-	Wrap metadata in a language template
+-	Attempt to detect the license
+
+Global categorieen om toe te voegen voor Atlas Schoemaker:
+
+- “Atlas Schoemaker 1710-1735” aanmaken (vergelijk https://commons.wikimedia.org/wiki/Category:Atlas_de_Wit_1698)
+
+- Op de pagina https://commons.wikimedia.org/wiki/Category:Andries_Schoemaker moet bovenaan een  link komen naar de (te maken) categorie “Atlas Schoemaker 1710-1735”
+- https://commons.wikimedia.org/wiki/Category:Cornelis_Pronk
+
+- Per provincie "Category:Images from Zuid-Holland"??
+
+- Hidden:
+
+	
+De introteksten op 
+http://www.geheugenvannederland.nl/?/nl/collecties/schoemaker
+http://www.geheugenvannederland.nl/?/nl/collecties/schoemaker/over_de_collectie
+
+toevoegen als introteksten op https://commons.wikimedia.org/wiki/Category:Atlas_Schoemaker_1710-1735
+
+
+Let op de volgende verschillen
+https://commons.wikimedia.org/wiki/Category:Abraham_de_Haen_%28II%29
+https://commons.wikimedia.org/wiki/Creator:Abraham_de_Haen_%28II%29
+https://commons.wikimedia.org/wiki/Abraham_de_Haen_%28II%29
+
+
+====================
+<dc:subject xsi:type="location" xml:lang="nl">New England</dc:subject>
+<dc:subject xsi:type="location" xml:lang="nl">Verenigde Staten</dc:subject>
+
+
+Match:
+<dc:subject xsi:type="location" xml:lang="nl">(?:(.*\w*.*\.?))</dc:subject>
+
+Replace:
+<location xml:lang="nl">$1</location>
+
+======
+
+<depictedLocation xml:lang="en">(?:(.*\w*.*\.?))</depictedLocation>
+
+<depictedLocation_EN xml:lang="en">$1</depictedLocation_EN>
+
+==========
+
+URLS: 
+
+- GWtoolset beta Commons:http://commons.wikimedia.beta.wmflabs.org/wiki/Special:GWToolset
+- GWtoolset prod Commons: http://commons.wikimedia.org/wiki/Special:GWToolset
+- GWtoolset development env: http://gwtoolset.wmflabs.org/wiki/GWToolset

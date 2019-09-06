@@ -1,0 +1,59 @@
+Achtergrondinfo: http://www.bl.uk/reshelp/findhelprestype/maps/beudcoll/beudekercols.html -  
+
+In GvN volume 21 of the Beudeker Collection has been digitised - 
+
+BL signature "Maps C.9.e.10 - The expansion of the Netherlands 
+
+133 records alleen BL (Atlas Beudeker, Volume 21)
+
+
+Via SRU : Records 1-580 (incl KB-spul)
+
+http://jsru.kb.nl/sru?version=1.2&operation=searchRetrieve&x-collection=GVN&stylesheet=&recordSchema=dcx&startRecord=1&maximumRecords=600&query=isPartOf%3DKONB01
+
+--> handmatig de BL-records er uit gevist (het blokje van de eerste 133 records)
+
+<permission>{{PD-art|PD-old-100}}</permission>
+<Institution>British Library</Institution>
+<dc:source>{{British Library image |ms-shelfmark= |shelfmark=Maps C.9.e.10. |url=}}</dc:source>
+
+
+Bij Categories de volgende invullen:
+- Atlas Beudeker (want Category:Atlas_Beudeker)
+
+
+Let op de string "spatie | spatie" in de titel, creator etc. velden. Dit geeft een error in het artwork template
+
+============
+
+http://commons.wikimedia.beta.wmflabs.org/w/index.php?title=Special%3ALog&type=gwtoolset&user=&page=&year=&month=-1&tagfilter=&hide_thanks_log=1 (zoek op datum)
+--> handig om fouten op te sporen ( te lange filetitels...., timeouts)
+
+Productie: http://commons.wikimedia.org/w/index.php?title=Special:Log&offset=&limit=500&type=gwtoolset&user=&page=&tagfilter=&hide_thanks_log=1
+
+==============
+
+
+<dc:subject xsi:type="location" xml:lang="nl">New England</dc:subject>
+<dc:subject xsi:type="location" xml:lang="nl">Verenigde Staten</dc:subject>
+
+
+Match:
+<dc:subject xsi:type="location" xml:lang="nl">(?:(.*\w*.*\.?))</dc:subject>
+
+Replace:
+<location xml:lang="nl">$1</location>
+
+======
+
+<depictedLocation xml:lang="en">(?:(.*\w*.*\.?))</depictedLocation>
+
+<depictedLocation_EN xml:lang="en">$1</depictedLocation_EN>
+
+==========
+
+URLS: 
+
+- GWtoolset beta Commons:http://commons.wikimedia.beta.wmflabs.org/wiki/Special:GWToolset
+- GWtoolset prod Commons: http://commons.wikimedia.org/wiki/Special:GWToolset
+- GWtoolset development env: http://gwtoolset.wmflabs.org/wiki/GWToolset

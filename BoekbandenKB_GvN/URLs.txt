@@ -1,0 +1,91 @@
+URLS: 
+
+- GWtoolset beta Commons:http://commons.wikimedia.beta.wmflabs.org/wiki/Special:GWToolset
+- GWtoolset prod Commons: http://commons.wikimedia.org/wiki/Special:GWToolset
+- GWtoolset development env: http://gwtoolset.wmflabs.org/wiki/GWToolset
+
+
+
+-	Upload KB boekbanden GvN  
+http://geheugenvannederland.nl/?/nl/collecties/boekbanden
+http://geheugenvannederland.nl/?/nl/zoekresultaten/pagina/1/Boekbanden+van+de+Koninklijke+Bibliotheek/%28isPartOf%20any%20%27KONB12%27%29
+
+Max 1010 objecten, maar niet allemaal rechtenvrij
+
+http://jsru.kb.nl/sru?version=1.2&operation=searchRetrieve&x-collection=GVN&stylesheet=&recordSchema=dcx&startRecord=1&maximumRecords=1010&query=isPartOf%3DKONB12
+
+Bij stap 2 de volgende checkboxes aanvinken:
+- Wrap metadata in a language template
+
+
+Bij Categories de volgende invullen:
+- Bookbindings from Koninklijke Bibliotheek danwel Koninklijke Bibliotheek bookbindings (vgl BL: https://commons.wikimedia.org/wiki/Category:British_Library_Bookbindings 
+
+==========
+
+http://commons.wikimedia.beta.wmflabs.org/w/index.php?title=Special%3ALog&type=gwtoolset&user=&page=&year=&month=-1&tagfilter=&hide_thanks_log=1 (zoek op: 11 september)
+--> handig om fouten op te sporen ( te lange filetitels...., timeouts)
+
+Productie: http://commons.wikimedia.org/w/index.php?title=Special:Log&offset=&limit=500&type=gwtoolset&user=&page=&tagfilter=&hide_thanks_log=1
+
+
+=====
+Swapping XML elements around using regexps
+
+Say we want to swap around the order of XML elements in this snippet from the bookbindings XML-file 
+
+                    <dcx:recordIdentifier>KONB12:144E31-1-3</dcx:recordIdentifier>
+                    <shelfMark>Shelfmark 144 E 31:1-3</shelfMark>
+                    <URL_gvn>Source page at the [http://resolver.kb.nl/resolve?urn=urn:gvn:KONB12:144E31 Geheugen van Nederland / Memory of the Netherlands] website</URL_gvn>
+                    <dcx:illustration>http://resolver.kb.nl/resolve?urn=urn:gvn:KONB12:144E31&amp;size=large</dcx:illustration>
+                    <dcterms:isPartOf xsi:type="collectionIdentifier">GVN-KONB12</dcterms:isPartOf>
+                    <collectionName>This object is part of [https://www.kb.nl/en/resources-research-guides/kb-collections/bookbindings-and-paper-history/bookbindings the collection of bookbindings] of the [[:w:en:National_Library_of_the_Netherlands|Koninklijke Bibliotheek]], the national library of the Netherlands</collectionName>
+                    <permission>{{PD-art|PD-old-70-1923}}</permission>
+                    <Institution>Koninklijke Bibliotheek</Institution>
+                    <dc:source>{{Koninklijke Bibliotheek}}</dc:source>
+                    <dc:title>Band van rood marokijn met goud bestempeld</dc:title>
+
+More precise: we want to place the No1 <dcx:recordIdentifier> element right after the No10 
+<dc:title> element
+
+We can do that with regexp
+
+SEARCH FOR
+                    (<dcx:recordIdentifier>[^<]*</dcx:recordIdentifier>)
+                    (<shelfMark>[^<]*</shelfMark>)
+                    (<URL_gvn>[^<]*</URL_gvn>)
+                    (<dcx:illustration>[^<]*</dcx:illustration>)
+                    (<dcterms:isPartOf xsi:type="collectionIdentifier">[^<]*</dcterms:isPartOf>)
+                    (<collectionName>[^<]*</collectionName>)
+                    (<permission>[^<]*</permission>)
+                    (<Institution>[^<]*</Institution>)
+                    (<dc:source>[^<]*</dc:source>)
+                    (<dc:title>[^<]*</dc:title>)
+(pls note: leading whitespaces ARE important!! )
+The above snippet consists of 10 groups (stuff in brackets). We want to place group 1 (=  "(<dcx:recordIdentifier>[^<]*</dcx:recordIdentifier>)") behind group 10 (= "(<dc:title>[^<]*</dc:title>)")
+, leaving the rest of the orde as it is
+
+We now use:
+REPLACE
+$2$3$4$5$6$7$8$9$10$1
+
+==========
+
+<dc:subject xsi:type="location" xml:lang="nl">New England</dc:subject>
+<dc:subject xsi:type="location" xml:lang="nl">Verenigde Staten</dc:subject>
+
+Match:
+<dc:subject xsi:type="location" xml:lang="nl">(?:(.*\w*.*\.?))</dc:subject>
+
+Replace:
+<location xml:lang="nl">$1</location>
+
+<dc:contributor dcx:role="atelier">(?:(.*\w*.*\.?))</dc:contributor>
+<Atelier>$1</Atelier>
+
+
+======
+
+<depictedLocation xml:lang="en">(?:(.*\w*.*\.?))</depictedLocation>
+
+<depictedLocation_EN xml:lang="en">$1</depictedLocation_EN>

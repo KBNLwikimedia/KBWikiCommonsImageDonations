@@ -1,0 +1,5 @@
+SEARCH
+<dc:extent>\{\{Size\|mm\|(.*\w)x(.*\w)\}\}
+
+REPLACE
+<dc:extent>\{\{Size\|mm\|\1|\2\}\}

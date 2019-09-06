@@ -1,0 +1,46 @@
+{
+   "accession number": [""],
+   "artist": [
+      "dc:creator",
+      "dc:contributor"
+   ],
+   "author": [""],
+   "credit line": [""],
+   "date": ["dcterms:created"],
+   "demo": [""],
+   "department": [""],
+   "description": ["dcterms:alternative"],
+   "dimensions": [""],
+   "exhibition history": [""],
+   "inscriptions": ["annotation"],
+   "institution": ["Institution"],
+   "medium": [""],
+   "notes": [
+      "collectionName",
+      "collectionDescription",
+      "depictedLocation"
+   ],
+   "object history": [""],
+   "object type": [""],
+   "other_fields": [""],
+   "other_versions": [""],
+   "permission": ["permission"],
+   "place of creation": [""],
+   "references": ["moreInformation"],
+   "source": [
+      "dc:source",
+      "URL_gvn"
+   ],
+   "strict": [""],
+   "title": [
+      "collectionName",
+      "dc:title"
+   ],
+   "wikidata": [""],
+   "gwtoolset-title": [
+      "collectionName",
+      "dc:title",
+      "shelfMark"
+   ],
+   "gwtoolset-url-to-the-media-file": ["dcx:illustration"]
+}

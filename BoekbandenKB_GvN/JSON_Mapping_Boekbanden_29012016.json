@@ -1,0 +1,40 @@
+{
+    "accession number": ["shelfMark"],
+    "artist": [""],
+    "author": [""],
+    "credit line": [""],
+    "date": [
+        "dcterms:created",
+        "binder"
+    ],
+    "demo": [""],
+    "department": [""],
+    "description": ["dc:description"],
+    "dimensions": ["dc:extent"],
+    "exhibition history": [""],
+    "inscriptions": [""],
+    "institution": ["Institution"],
+    "medium": ["dcterms:medium"],
+    "notes": ["collectionName"],
+    "object history": [""],
+    "object type": ["dc:format"],
+    "other_fields": [""],
+    "other_versions": [""],
+    "permission": ["permission"],
+    "place of creation": ["PlaceOfCreation"],
+    "place of discovery": [""],
+    "references": [""],
+    "source": [
+        "URL_gvn",
+        "dc:source"
+    ],
+    "strict": [""],
+    "title": ["dc:title"],
+    "wikidata": [""],
+    "wikidata_cat": [""],
+    "gwtoolset-title": [
+        "dc:title",
+        "dcx:recordIdentifier"
+    ],
+    "gwtoolset-url-to-the-media-file": ["dcx:illustration"]
+}
