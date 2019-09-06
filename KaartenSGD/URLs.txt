@@ -1,0 +1,105 @@
+Website 
+- http://www.statengeneraaldigitaal.nl/kaarten
+
+--------------
+
+SRU-call
+
+
+http://jsru.kb.nl/sru?version=1.2&operation=searchRetrieve&x-collection=SGD_kaarten&stylesheet=&recordSchema=dcx&startRecord=1&maximumRecords=600&query=*
+
+Geeft 1113 resultaten terug
+
+-556 goede records, met werkende permanente URL naar het plaatje
+-556 foute, met een 0 te wining in de perm URL
+-1 admin record
+
+
+Let op: Recordnr 1102 heeft geen URL (<dcx:recordidentifier>) naar mediabestand!! --> uit SRU-dump verwijderd
+
+---------
+
+Zie ook voor betere overzichtelijkheid 
+- http://services.kb.nl/mdo/oai?verb=ListIdentifiers&set=sgd:kaarten&metadataPrefix=dcx&from=2011-08-11T06:43:02.379Z
+
+Hieraan zien we: er zitten 556 records/afbeeldingen in deze set (er zit 1 foutieve Identifier in)
+
+
+====
+
+Downloaden records (XML) kan ook via SRU, maar hebben het nu via OAI gedaan
+
+
+
+GWToolset op Commons beta: mapping GWToolset:Metadata Mappings/OlafJanssen/KB SGD Kaarten NIEUW.json
+
+
+=============
+
+Voorbeeld regexp
+
+
+<identifier>sgd:kaarten:mpeg21:19001901:0001198:0005:image</identifier>
+<newIdentifier>http://www.statengeneraaldigitaal.nl/document?d=sgd:mpeg21:19001901:0001198&pagina=5</newIdentifier> 
+
+
+Match:
+urn=sgd:mpeg21:([0-9]*):([0-9]*):([0-9]*):image</dcx:recordidentifier>
+
+
+Replace:
+sgd:mpeg21:$1:$2&pagina=$3</dcx:XXXXrecordidentifier>
+
+
+
+==========
+
+Logo/template/institution van de KB gebruiken, en/of die van de 2e kamer??
+
+
+Testen op http://commons.wikimedia.beta.wmflabs.org/wiki/Special:GWToolset , want daar werkt het Map template wel
+
+===========
+
+
+MATCH
+xmlns="http://www\.kb\.nl/namespaces/sgd/lokaal">http://www\.statengeneraaldigitaal\.nl/document\?id=sgd:mpeg21:([0-9]*):([0-9]*)&amp;pagina=([0-9]*)</dcx:NewRecordidentifier>
+
+
+REPLACE
+xmlns="http://www\.kb\.nl/namespaces/sgd/lokaal">http://www\.statengeneraaldigitaal\.nl/document\?id=sgd:mpeg21:$1:$2&amp;pagina=$3</dcx:NewRecordidentifier>
+<dcx:illustration>http://resolver.kb.nl/resolve?urn=sgd:mpeg21:$1:$2:000$3:image<dcx:illustration>
+
+					
+---------
+
+VAN
+ <mapcentre>-5.54166666666667, 119.5</mapcentre>
+
+NAAR
+<latitude_mapcentre>-5.54166666666667</latitude_mapcentre>
+<longitude_mapcentre>119.5</longitude_mapcentre>
+
+==REGEXP==
+
+VAN
+<mapcentre>(.*?), (.*?)</mapcentre>
+
+NAAR
+<latitude_mapcentre>\1</latitude_mapcentre>
+<longitude_mapcentre>\2</longitude_mapcentre>
+
+<dcterms:spatial xmlns="http://www.kb.nl/namespaces/sgd/lokaal">(.*?)</dcterms:spatial>
+
+
+<dc:subject>(.*?). (.*?)</dc:subject>
+<dc:subject>\1, \2</dc:subject>
+
+--------------
+
+https://commons.wikimedia.org/w/index.php?title=Special:Log&offset=&limit=500&type=gwtoolset&user=OlafJanssen&page=&tagfilter=&uselang=en
+
+
+
+===WMC Categorieen voor de upload======
+https://commons.wikimedia.org/wiki/Category:Tweede_Kamer

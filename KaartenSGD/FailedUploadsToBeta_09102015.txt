@@ -1,0 +1,73 @@
+==========checked==========
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0002735:0004:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19801981:0002017:0016:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19791980:0008266:0007:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19791980:0002559:0026:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19791980:0002521:0005:image.
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19741975:0002974:0002:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19781979:0002717:0004:image.
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19741975:0002955:0033:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19731974:0004866:0002:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19191920:0002897:0003:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19191920:0002869:0003:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19151916:0000992:0003:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19721973:0003431:0015:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19711972:0000434:0004:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19691970:0003937:0036:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19691970:0003937:0026:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19091910:0001098:0002:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19081909:0001766:0003:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19671968:0002152:0002:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19671968:0002705:0009:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19651966:0003240:0002:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19651966:0002891:0037:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19611962:0002901:0002:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19311932:0001695:0005:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19291930:0001158:0003:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19281929:0001344:0003:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19261927:0002050:0002:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19231924:0002080:0003:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19191920:0002684:0003:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19181919:0002420:0003:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19121913:0000974:0002:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19111912:0001139:0005:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19101911:0001470:0004:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19101911:0001420:0003:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19091910:0001253:0003:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19091910:0001098:0002:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19081909:0001766:0003:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19031904:0001181:0003:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19801981:0007550:0223:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19831984:0002988:0106:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19801981:0006602:0102:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19741975:0005520:0041:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19741975:0005130:0070:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19141915:0002191:0005:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19141915:0001898:0013:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19071908:0001026:0005:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19001901:0001198:0005:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19091910:0000987:0003:image 
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19641965:0002889:0002:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19641965:0002137:0005:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19631964:0002972:0001:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19171918:0002995:0002:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19171918:0002672:0002:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19161917:0002241:0002:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19151916:0002143:0002:image
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19151916:0001565:0003:image
+
+
+=== Corrected long titles ===
+
+15:32, 9 October 2015 OlafJanssen (talk | contribs) mediafile job failed. Metadata record 232. <p>The evaluated title is too long; a title can be up to a maximum of 240 bytes in length. This title evaluates to 319 bytes in length. </p><p>Verklaring van het algemeen nut der onteigening van perceelen, erfdienstbaarheden en andere zakelijke rechten in de gemeenten Born, Obbicht en Papenhoven, Urmond, Stein, Limbricht, Nieuwstadt en Sittard noodig voor den aanleg van scheepvaartwegen e.a. in Zuid-Limburg, ingevolge de wet van 28 juli 1921 (Staatsblad.jpeg. </p>.
+
+15:32, 9 October 2015 OlafJanssen (talk | contribs) mediafile job failed. Metadata record 230. <p>The evaluated title is too long; a title can be up to a maximum of 240 bytes in length. This title evaluates to 261 bytes in length. </p><p>Verklaring van het algemeen nut der onteigening van perceelen, erfdienstbaarheden en andere zakelijke rechten noodig voor aanleg van een rijwielpad en een voetpad langs den rijksweg Princenhage-Tholensche veer en voor verflauwing van een bocht van dien weg.jpeg. </p>.
+
+16:33, 9 October 2015 OlafJanssen (talk | contribs) mediafile job failed. Metadata record 233. <p>The evaluated title is too long; a title can be up to a maximum of 240 bytes in length. This title evaluates to 270 bytes in length. </p><p>Verklaring van het algemeen nut der onteigening van perceelen, erfdienstbaarheden en andere zakelijke rechten, noodig voor aanleg van het gedeelte Schorebrug-Krabbendijke van den weg Kapelle-Noord-Brabantsche grens in de gemeenten Schore, Kruiningen en Krabbendijke.jpeg. </p>.
+
+16:33, 9 October 2015 OlafJanssen (talk | contribs) mediafile job failed. Metadata record 232. <p>The evaluated title is too long; a title can be up to a maximum of 240 bytes in length. This title evaluates to 319 bytes in length. </p><p>Verklaring van het algemeen nut der onteigening van perceelen, erfdienstbaarheden en andere zakelijke rechten in de gemeenten Born, Obbicht en Papenhoven, Urmond, Stein, Limbricht, Nieuwstadt en Sittard noodig voor den aanleg van scheepvaartwegen e.a. in Zuid-Limburg, ingevolge de wet van 28 juli 1921 (Staatsblad.jpeg. </p>.
+
+16:32, 9 October 2015 OlafJanssen (talk | contribs) mediafile job failed. Metadata record 230. <p>The evaluated title is too long; a title can be up to a maximum of 240 bytes in length. This title evaluates to 261 bytes in length. </p><p>Verklaring van het algemeen nut der onteigening van perceelen, erfdienstbaarheden en andere zakelijke rechten noodig voor aanleg van een rijwielpad en een voetpad langs den rijksweg Princenhage-Tholensche veer en voor verflauwing van een bocht van dien weg.jpeg. </p>. 
+
+16:16, 9 October 2015 OlafJanssen (talk | contribs) mediafile job failed. Metadata record 439. <p>The evaluated title is too long; a title can be up to a maximum of 240 bytes in length. This title evaluates to 246 bytes in length. </p><p>Havenschap TerneuzenSchema regionalisatie van de voorzieningen voor geestelijke gezondheidszorg in NederlandRegio met 5 streken en 22 wijken volgens het schema regionalisatie van de voorzieningen voor geestelijke gezondheidszorg in Nederland.jpeg. </p>.
+

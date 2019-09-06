@@ -1,0 +1,21 @@
+VAN
+ <mapcentre>-5.54166666666667, 119.5</mapcentre>
+
+NAAR
+<latitude_mapcentre>-5.54166666666667</latitude_mapcentre>
+<longitude_mapcentre>119.5</longitude_mapcentre>
+
+==REGEXP==
+
+VAN
+<mapcentre>(.*?), (.*?)</mapcentre>
+
+NAAR
+<latitude_mapcentre>\1</latitude_mapcentre>
+<longitude_mapcentre>\2</longitude_mapcentre>
+
+<dcterms:spatial xmlns="http://www.kb.nl/namespaces/sgd/lokaal">(.*?)</dcterms:spatial>
+
+
+<dc:subject>(.*?). (.*?)</dc:subject>
+<dc:subject>\1, \2</dc:subject>

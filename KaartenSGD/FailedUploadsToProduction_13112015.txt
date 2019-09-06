@@ -1,0 +1,19 @@
+ Metadata record 244. The evaluated title is too long; a title can be up to a maximum of 240 bytes in length. This title evaluates to 243 bytes in length. KAARTEN SGD - Verklaring van het algemeen nut der onteigening van perceelen, erfdienstbaarheden en andere zakelijke rechten, noodig voor aanleg van een nieuw wegvak in den rijksweg 's-Gravenhage-Noord-Hollandsche grens bewesten Oegstgeest.jpeg.. 
+
+ediafile job failed. Metadata record 466. Edit conflict original URL: 
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19761977:0001951:0002:image evaluated URL: 
+http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19761977:0001951:0002:image. 
+
+
+01:45, 16 November 2015 OlafJanssen (talk | contribs) mediafile job failed. Metadata record 468. Edit conflict original URL: http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19761977:0001935:0003:image evaluated URL: http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19761977:0001935:0003:image
+
+23:44, 14 November 2015 OlafJanssen (talk | contribs) mediafile job failed. Metadata record 244. The evaluated title is too long; a title can be up to a maximum of 240 bytes in length. This title evaluates to 243 bytes in length. KAARTEN SGD - Verklaring van het algemeen nut der onteigening van perceelen, erfdienstbaarheden en andere zakelijke rechten, noodig voor aanleg van een nieuw wegvak in den rijksweg 's-Gravenhage-Noord-Hollandsche grens bewesten Oegstgeest.jpeg.. 
+
+19:26, 13 November 2015 OlafJanssen (talk | contribs) mediafile job failed. Metadata record 44. Edit conflict original URL: http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19781979:0003292:0244:image evaluated URL: http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19781979:0003292:0244:image. 
+
+17:58, 13 November 2015 OlafJanssen (talk | contribs) mediafile job failed. Metadata record 41. Edit conflict original URL: http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19781979:0003292:0242:image evaluated URL: http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19781979:0003292:0242:image
+
+
+
+ 
+

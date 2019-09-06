@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+    <srw:records>
+        <srw:record>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordSchema>info:srw/schema/1/dc-v1.1</srw:recordSchema>
+            <srw:recordData>
+                <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sgd="http://www.kb.nl/namespaces/handelingen" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prut="http://www.kb.nl/namespaces/sgd/lokaal">
+                    <permission>{{CC0}}</permission>
+                    <creator lang="en">The individual creators of this map are unknown, it was commissioned by the [[:w:en:House_of_Representatives_(Netherlands)|House of Representatives]] of the Netherlands.</creator>
+                    <creator lang="nl">De precieze makers van deze kaart zijn niet bekend, hij werd in opdracht van de [[:w:nl:Tweede_Kamer_der_Staten-Generaal|Tweede Kamer der Staten-Generaal]] gemaakt.</creator>
+                    <digitizedBy>This map was digitized by the {{Institution:Koninklijke Bibliotheek}}</digitizedBy>
+                    <publisher>This map was commissioned and published by the {{Institution:Tweede Kamer}}</publisher>
+                    <dc:title>KAARTEN SGD - Reconstructie Midden Delfland</dc:title>
+                    <dc:description>Op de kaart zijn tevens de gebieden ingetekend die ten behoeve van de reconstructie voor landinrichting en onteigening in aanmerking komen. Bijlage, behorende bij het gewijzigd ontwerp van wet, zoals gewijzigd bij de derde nota van wijzigingen (stuk nr. 25), betreffende regelen met betrekking tot de reconstructie van Midden-Delfland</dc:description>
+                    <dc:date>1976</dc:date>
+                    <dc:subject lang="nl">reconstructiegebied, grond-onteigening</dc:subject>
+                    <sgd:region>Delfland</sgd:region>
+                    <scale>1:50.000</scale>
+                    <latitude_mapcentre>51.9583333333333</latitude_mapcentre>
+                    <longitude_mapcentre>4.325</longitude_mapcentre>
+                    <dcx:identifier>This image in context: http://www.statengeneraaldigitaal.nl/document?id=sgd:mpeg21:19761977:0001951&amp;pagina=2</dcx:identifier>
+                    <dc:source>{{Koninklijke Bibliotheek}}</dc:source>
+                    <dc:source2>{{Tweede Kamer}}</dc:source2>
+                    <dcx:illustration>http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19761977:0001951:0002:image</dcx:illustration>
+                </srw_dc:dc>
+            </srw:recordData>
+            <srw:recordPosition>1033</srw:recordPosition>
+        </srw:record>
+        <srw:record>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordSchema>info:srw/schema/1/dc-v1.1</srw:recordSchema>
+            <srw:recordData>
+                <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sgd="http://www.kb.nl/namespaces/handelingen" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prut="http://www.kb.nl/namespaces/sgd/lokaal">
+                    <permission>{{CC0}}</permission>
+                    <creator lang="en">The individual creators of this map are unknown, it was commissioned by the [[:w:en:House_of_Representatives_(Netherlands)|House of Representatives]] of the Netherlands.</creator>
+                    <creator lang="nl">De precieze makers van deze kaart zijn niet bekend, hij werd in opdracht van de [[:w:nl:Tweede_Kamer_der_Staten-Generaal|Tweede Kamer der Staten-Generaal]] gemaakt.</creator>
+                    <digitizedBy>This map was digitized by the {{Institution:Koninklijke Bibliotheek}}</digitizedBy>
+                    <publisher>This map was commissioned and published by the {{Institution:Tweede Kamer}}</publisher>
+                    <dc:title>KAARTEN SGD - Reconstructie Midden Delfland</dc:title>
+                    <dc:description>Op de kaart zijn de gebieden ingetekend die ten behoeve van de reconstructie voor landinrichting en onteigening in aanmerking komen. Bijlage, behorende bij het amendement van de kamerleden De Bekker c.s. bij het gewijzigd ontwerp van wet, zoals gewijzigd bij de vierde nota van wijzigingen (stuk nr. 38), betreffende regelen met betrekking tot de reconstructie van Midden-Delfland</dc:description>
+                    <dc:date>1976</dc:date>
+                    <dc:subject lang="nl">reconstructiegebied, grond-onteigening</dc:subject>
+                    <sgd:region>Delfland</sgd:region>
+                    <scale>1:50.000</scale>
+                    <latitude_mapcentre>51.9583333333333</latitude_mapcentre>
+                    <longitude_mapcentre>4.325</longitude_mapcentre>
+                    <dcx:identifier>This image in context: http://www.statengeneraaldigitaal.nl/document?id=sgd:mpeg21:19761977:0001935&amp;pagina=3</dcx:identifier>
+                    <dc:source>{{Koninklijke Bibliotheek}}</dc:source>
+                    <dc:source2>{{Tweede Kamer}}</dc:source2>
+                    <dcx:illustration>http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19761977:0001935:0003:image</dcx:illustration>
+                </srw_dc:dc>
+            </srw:recordData>
+            <srw:recordPosition>1035</srw:recordPosition>
+        </srw:record>
+        <srw:record>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordSchema>info:srw/schema/1/dc-v1.1</srw:recordSchema>
+            <srw:recordData>
+                <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sgd="http://www.kb.nl/namespaces/handelingen" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prut="http://www.kb.nl/namespaces/sgd/lokaal">
+                    <permission>{{CC0}}</permission>
+                    <creator lang="en">The individual creators of this map are unknown, it was commissioned by the [[:w:en:House_of_Representatives_(Netherlands)|House of Representatives]] of the Netherlands.</creator>
+                    <creator lang="nl">De precieze makers van deze kaart zijn niet bekend, hij werd in opdracht van de [[:w:nl:Tweede_Kamer_der_Staten-Generaal|Tweede Kamer der Staten-Generaal]] gemaakt.</creator>
+                    <digitizedBy>This map was digitized by the {{Institution:Koninklijke Bibliotheek}}</digitizedBy>
+                    <publisher>This map was commissioned and published by the {{Institution:Tweede Kamer}}</publisher>
+                    <dc:title>KAARTEN SGD - Verklaring van het algemeen nut der onteigening van perceelen, erfdienstbaarheden en andere zakelijke rechten, noodig voor aanleg van een nieuw wegvak in den rijksweg bewesten Oegstgeest</dc:title>
+                    <dc:date>1931</dc:date>
+                    <dc:subject lang="nl">grond-onteigening, wegenaanleg</dc:subject>
+                    <commonscat1>Roadworks in the Netherlands</commonscat1>
+                    <sgd:region>Zuid-Holland</sgd:region>
+                    <scale>1:50.000</scale>
+                    <latitude_mapcentre>52.1916666666666</latitude_mapcentre>
+                    <longitude_mapcentre>4.48333333333333</longitude_mapcentre>
+                    <dcx:identifier>This image in context: http://www.statengeneraaldigitaal.nl/document?id=sgd:mpeg21:19301931:0001589&amp;pagina=2</dcx:identifier>
+                    <dc:source>{{Koninklijke Bibliotheek}}</dc:source>
+                    <dc:source2>{{Tweede Kamer}}</dc:source2>
+                    <dcx:illustration>http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19301931:0001589:0002:image</dcx:illustration>
+                </srw_dc:dc>
+            </srw:recordData>
+            <srw:recordPosition>796</srw:recordPosition>
+        </srw:record>
+        <srw:record>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordSchema>info:srw/schema/1/dc-v1.1</srw:recordSchema>
+            <srw:recordData>
+                <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sgd="http://www.kb.nl/namespaces/handelingen" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prut="http://www.kb.nl/namespaces/sgd/lokaal">
+                    <permission>{{CC0}}</permission>
+                    <creator lang="en">The individual creators of this map are unknown, it was commissioned by the [[:w:en:House_of_Representatives_(Netherlands)|House of Representatives]] of the Netherlands.</creator>
+                    <creator lang="nl">De precieze makers van deze kaart zijn niet bekend, hij werd in opdracht van de [[:w:nl:Tweede_Kamer_der_Staten-Generaal|Tweede Kamer der Staten-Generaal]] gemaakt.</creator>
+                    <digitizedBy>This map was digitized by the {{Institution:Koninklijke Bibliotheek}}</digitizedBy>
+                    <publisher>This map was commissioned and published by the {{Institution:Tweede Kamer}}</publisher>
+                    <dc:title>KAARTEN SGD - Structuurschema verkeer en vervoer</dc:title>
+                    <dc:subject lang="nl">arbeidsorganisatie(s)</dc:subject>
+                    <dcx:identifier>This image in context: http://www.statengeneraaldigitaal.nl/document?id=sgd:mpeg21:19781979:0003292&amp;pagina=244</dcx:identifier>
+                    <dc:source>{{Koninklijke Bibliotheek}}</dc:source>
+                    <dc:source2>{{Tweede Kamer}}</dc:source2>
+                    <dcx:illustration>http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19781979:0003292:0244:image</dcx:illustration>
+                </srw_dc:dc>
+            </srw:recordData>
+            <srw:recordPosition>592</srw:recordPosition>
+        </srw:record>
+        <srw:record>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordSchema>info:srw/schema/1/dc-v1.1</srw:recordSchema>
+            <srw:recordData>
+                <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sgd="http://www.kb.nl/namespaces/handelingen" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prut="http://www.kb.nl/namespaces/sgd/lokaal">
+                    <permission>{{CC0}}</permission>
+                    <creator lang="en">The individual creators of this map are unknown, it was commissioned by the [[:w:en:House_of_Representatives_(Netherlands)|House of Representatives]] of the Netherlands.</creator>
+                    <creator lang="nl">De precieze makers van deze kaart zijn niet bekend, hij werd in opdracht van de [[:w:nl:Tweede_Kamer_der_Staten-Generaal|Tweede Kamer der Staten-Generaal]] gemaakt.</creator>
+                    <digitizedBy>This map was digitized by the {{Institution:Koninklijke Bibliotheek}}</digitizedBy>
+                    <publisher>This map was commissioned and published by the {{Institution:Tweede Kamer}}</publisher>
+                    <dc:title>KAARTEN SGD - Structuurschema verkeer en vervoer</dc:title>
+                    <dc:subject lang="nl">arbeidsorganisatie(s)</dc:subject>
+                    <dcx:identifier>This image in context: http://www.statengeneraaldigitaal.nl/document?id=sgd:mpeg21:19781979:0003292&amp;pagina=242</dcx:identifier>
+                    <dc:source>{{Koninklijke Bibliotheek}}</dc:source>
+                    <dc:source2>{{Tweede Kamer}}</dc:source2>
+                    <dcx:illustration>http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19781979:0003292:0242:image</dcx:illustration>
+                </srw_dc:dc>
+            </srw:recordData>
+            <srw:recordPosition>589</srw:recordPosition>
+        </srw:record>
+    </srw:records>
+</srw:searchRetrieveResponse>
